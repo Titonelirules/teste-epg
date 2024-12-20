@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V5.3.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="GLOBO RJ 4K">
+    <display-name lang="pt">GLOBO RJ 4K</display-name>
+    <icon src="https://www.lineup.tv.br/canais/1682015510.gif|https://www.lineup.tv.br/canais/1642108923.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="SBT">
+    <display-name lang="pt">SBT</display-name>
+    <icon src="https://www.nowonline.com.br/img/channels/sbt.png" />
+    <url>http://www.clarotvmais.com.br</url>
+  </channel>
+  <channel id="RECORD HD">
+    <display-name lang="pt">RECORD HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <programme start="20241220194500 +0000" stop="20241220224500 +0000" channel="SBT">
+    <title lang="pt">Tá Na Hora</title>
+    <desc lang="pt">Marcão do Povo e Márcia Dantas comandam o \"Tá na Hora\", levando informação e prestação de serviço durante a sua volta para casa.(n)</desc>
+  </programme>
+  <programme start="20241220224500 +0000" stop="20241220234500 +0000" channel="SBT">
+    <title lang="pt">SBT Brasil</title>
+    <desc lang="pt">Os principais fatos do Brasil e do mundo apresentados com independência e isenção.(n)</desc>
+  </programme>
+  <programme start="20241220234500 +0000" stop="20241221000500 +0000" channel="SBT">
+    <title lang="pt">Chaves</title>
+    <desc lang="pt">Chaves é um garoto pobre e órfão que mora numa vila, onde também moram as mais variadas figuras que vivem se metendo em confusão!(n)</desc>
+  </programme>
+  <programme start="20241221000500 +0000" stop="20241221010000 +0000" channel="SBT">
+    <title lang="pt">A Caverna Encantada</title>
+    <desc lang="pt">Isadora mostra para Anna a matéria que fez sobre Lavínia para o jornal do colégio. Lavínia está em busca dos diamantes falantes de Safira.(n)</desc>
+  </programme>
+  <programme start="20241221010000 +0000" stop="20241221012000 +0000" channel="SBT">
+    <title lang="pt">Chapolin</title>
+    <desc lang="pt">O Chapolin Colorado é um herói atrapalhado, medroso e desastrado, que sempre aparece quando alguém precisa. Com sua marreta biônica e a pílula encolhedora, ele, muitas vezes, provoca mais confusão do que necessariamen...(n)</desc>
+  </programme>
+  <programme start="20241221012000 +0000" stop="20241221022000 +0000" channel="SBT">
+    <title lang="pt">Programa do Ratinho</title>
+    <desc lang="pt">Ratinho preocupado com as questões da população e com um jornalismo dinâmico, traz as principais notícias do dia. Não perca o Exame de DNA, o Jornal Rational e o Desafio do Ratinho com convidados especiais.(n)</desc>
+  </programme>
+  <programme start="20241221022000 +0000" stop="20241221034500 +0000" channel="SBT">
+    <title lang="pt">É Tudo Nosso!</title>
+    <desc lang="pt">O É Tudo Nosso! chega no SBT trazendo muita música, quadros inusitados e interação direta da plateia. Ao lado de Mano, Helen Ganzarolli e Victor Sarro, Benja vai garantir que a ação não para um minuto sequer.(n)</desc>
+  </programme>
+  <programme start="20241221034500 +0000" stop="20241221044500 +0000" channel="SBT">
+    <title lang="pt">The Noite com Danilo Gentili</title>
+    <desc lang="pt">O programa traz muitos entrevistados interessantes e alto índice de piadas por minuto, abordando os fatos mais e menos relevantes do dia.(n)</desc>
+  </programme>
+  <programme start="20241221044500 +0000" stop="20241221051500 +0000" channel="SBT">
+    <title lang="pt">Operação Mesquita</title>
+    <desc lang="pt">Operação Mesquita se propõe a descobrir o lado B dos famosos. E também de anônimos. O grande diferencial da atração é a ausência de estúdio: todo o programa é feito sobre rodas; os passantes f...(n)</desc>
+  </programme>
+  <programme start="20241221051500 +0000" stop="20241221060000 +0000" channel="SBT">
+    <title lang="pt">SBT Podnight - PODCMAIS</title>
+    <desc lang="pt">Os podcasts líderes de audiência nas plataformas digitais - Flow, Inteligência Ltda., Vênus, Papagaio Falante e Pod Delas - trazem  uma variedade de temas, desde a cultura pop até questões sociais.(n)</desc>
+  </programme>
+  <programme start="20241221060000 +0000" stop="20241221090000 +0000" channel="SBT">
+    <title lang="pt">SBT News</title>
+    <desc lang="pt">O SBT News é apresentado por Marcelo Martins, e apresenta os principais assuntos de Santa Catarina e também os destaques do Brasil e do Mundo.(n)</desc>
+  </programme>
+  <programme start="20241221090000 +0000" stop="20241221141500 +0000" channel="SBT">
+    <title lang="pt">Sábado Animado</title>
+    <desc lang="pt">Seu fim de semana começa com muito mais alegria no Sábado Animado. Os desenhos que fazem sucesso entre a garotada de todas as idades estão reunidos aqui. Você vai se divertir pra valer!(n)</desc>
+  </programme>
+  <programme start="20241221141500 +0000" stop="20241221150000 +0000" channel="SBT">
+    <title lang="pt">SBT Apresenta: Luccas Toon</title>
+    <desc lang="pt">Os episódios mais divertidos da franquia Luccas Toon inspiram crianças e adultos a soltarem a imaginação e se aventurarem em um mundo cheio de histórias animadas e valiosos aprendizados.(n)</desc>
+  </programme>
+  <programme start="20241221150000 +0000" stop="20241221171500 +0000" channel="SBT">
+    <title lang="pt">Programa Raul Gil</title>
+    <desc lang="pt">Raul Gil entra em milhares de lares brasileiros. Ele é o comandante de um programa de televisão familiar, direcionado para todas as classes sociais e idades.(n)</desc>
+  </programme>
+  <programme start="20241221171500 +0000" stop="20241221193000 +0000" channel="SBT">
+    <title lang="pt">Cinema em Casa - 1ª Sessão: Animais Fantásticos E Onde Habitam</title>
+    <desc lang="pt">O magizoologista Newt Scamander chega à Nova York levando sua preciosa maleta, um objeto mágico onde ele carrega fantásticos animais do mundo da magia que coletou durante as suas viagens.(n)</desc>
+  </programme>
+  <programme start="20241221193000 +0000" stop="20241221210000 +0000" channel="SBT">
+    <title lang="pt">Cinema em Casa - 2ª Sessão: Acampamento Do Papai</title>
+    <desc lang="pt">Charlie e Phil tentam resolver os problemas do acampamento de verão, além de enfrentar a indisciplina das crianças. Para dar um jeito na situação, Charlie chama seu pai, um militar que vai ensinar como se trabalha em equipe.(n)</desc>
+  </programme>
+  <programme start="20241221210000 +0000" stop="20241221224500 +0000" channel="SBT">
+    <title lang="pt">Circo do Tiru</title>
+    <desc lang="pt">O humorista e apresentador Tirullipa comanda o Circo do Tiru e promete levar pela primeira vez na televisão brasileira a magia e arte do picadeiro em um programa para divertir toda a família com jogos.(n)</desc>
+  </programme>
+</tv>
