@@ -1,0 +1,176 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V5.3.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="SBT">
+    <display-name lang="pt">SBT</display-name>
+    <icon src="https://www.nowonline.com.br/img/channels/sbt.png" />
+    <url>http://www.clarotvmais.com.br</url>
+  </channel>
+  <channel id="GLOBO RJ">
+    <display-name lang="pt">GLOBO RJ</display-name>
+    <icon src="https://s3.glbimg.com/v1/AUTH_b58693ed41d04a39826739159bf600a0/photos/logo-novo-barra.png" />
+    <url>http://www.redeglobo.globo.com</url>
+  </channel>
+  <channel id="BAND HD">
+    <display-name lang="en">BAND HD</display-name>
+    <url>http://www.oi.com.br</url>
+  </channel>
+  <channel id="RECORD HD">
+    <display-name lang="pt">RECORD HD</display-name>
+    <url>http://www.sky.com.br</url>
+  </channel>
+  <channel id="AXN">
+    <display-name lang="pt">AXN</display-name>
+    <url>http://www.tvinside.com.br</url>
+  </channel>
+  <channel id="AMC HD">
+    <display-name lang="pt">AMC HD</display-name>
+    <url>http://www.tvmap.com.br</url>
+  </channel>
+  <channel id="CULTURA HD">
+    <display-name lang="pt">CULTURA HD</display-name>
+  </channel>
+  <channel id="BIS HD">
+    <display-name lang="pt">BIS HD</display-name>
+    <url>http://www.vivo.com.br</url>
+  </channel>
+  <programme start="20241221090000 +0000" stop="20241221141500 +0000" channel="SBT">
+    <title lang="pt">Sábado Animado</title>
+    <desc lang="pt">Seu fim de semana começa com muito mais alegria no Sábado Animado. Os desenhos que fazem sucesso entre a garotada de todas as idades estão reunidos aqui. Você vai se divertir pra valer!(n)</desc>
+  </programme>
+  <programme start="20241221141500 +0000" stop="20241221150000 +0000" channel="SBT">
+    <title lang="pt">SBT Apresenta: Luccas Toon</title>
+    <desc lang="pt">Os episódios mais divertidos da franquia Luccas Toon inspiram crianças e adultos a soltarem a imaginação e se aventurarem em um mundo cheio de histórias animadas e valiosos aprendizados.(n)</desc>
+  </programme>
+  <programme start="20241221150000 +0000" stop="20241221171500 +0000" channel="SBT">
+    <title lang="pt">Programa Raul Gil</title>
+    <desc lang="pt">Raul Gil entra em milhares de lares brasileiros. Ele é o comandante de um programa de televisão familiar, direcionado para todas as classes sociais e idades.(n)</desc>
+  </programme>
+  <programme start="20241221171500 +0000" stop="20241221193000 +0000" channel="SBT">
+    <title lang="pt">Cinema em Casa - 1ª Sessão: Animais Fantásticos E Onde Habitam</title>
+    <desc lang="pt">O magizoologista Newt Scamander chega à Nova York levando sua preciosa maleta, um objeto mágico onde ele carrega fantásticos animais do mundo da magia que coletou durante as suas viagens.(n)</desc>
+  </programme>
+  <programme start="20241221193000 +0000" stop="20241221210000 +0000" channel="SBT">
+    <title lang="pt">Cinema em Casa - 2ª Sessão: Acampamento Do Papai</title>
+    <desc lang="pt">Charlie e Phil tentam resolver os problemas do acampamento de verão, além de enfrentar a indisciplina das crianças. Para dar um jeito na situação, Charlie chama seu pai, um militar que vai ensinar como se trabalha em equipe.(n)</desc>
+  </programme>
+  <programme start="20241221210000 +0000" stop="20241221224500 +0000" channel="SBT">
+    <title lang="pt">Circo do Tiru</title>
+    <desc lang="pt">O humorista e apresentador Tirullipa comanda o Circo do Tiru e promete levar pela primeira vez na televisão brasileira a magia e arte do picadeiro em um programa para divertir toda a família com jogos.(n)</desc>
+  </programme>
+  <programme start="20241221224500 +0000" stop="20241221234500 +0000" channel="SBT">
+    <title lang="pt">SBT Brasil</title>
+    <desc lang="pt">Os principais fatos do Brasil e do mundo apresentados com independência e isenção.(n)</desc>
+  </programme>
+  <programme start="20241221234500 +0000" stop="20241222011500 +0000" channel="SBT">
+    <title lang="pt">Bake Off Brasil: Mão na Massa</title>
+    <desc lang="pt">O Bake Off Brasil é uma disputa entre confeiteiros amadores, apresentada por Fabiana Karla. Os participantes são submetidos a provas técnicas e criativas e precisam colocar a mão na massa para enfrentar a nossa dupla de jurados.(n)</desc>
+  </programme>
+  <programme start="20241222011500 +0000" stop="20241222030000 +0000" channel="SBT">
+    <title lang="pt">Sabadou Com Virgínia</title>
+    <desc lang="pt">O \"Sabadou com Virginia\" é um programa de entretenimento que combina entrevistas, muita interação e brincadeiras com a plateia, proporcionando um final de noite mais leve e cheio de diversão.(n)</desc>
+  </programme>
+  <programme start="20241222030000 +0000" stop="20241222050000 +0000" channel="SBT">
+    <title lang="pt">Notícias Impressionantes</title>
+    <desc lang="pt">O Notícias Impressionantes aborda os acontecimentos mais espetaculares do mundo e mostra as imagens mais impressionantes que você já viu.(n)</desc>
+  </programme>
+  <programme start="20241222050000 +0000" stop="20241222090000 +0000" channel="SBT">
+    <title lang="pt">SBT News</title>
+    <desc lang="pt">O SBT News é apresentado por Marcelo Martins, e apresenta os principais assuntos de Santa Catarina e também os destaques do Brasil e do Mundo.(n)</desc>
+  </programme>
+  <programme start="20241222090000 +0000" stop="20241222100000 +0000" channel="SBT">
+    <title lang="pt">SBT News</title>
+    <desc lang="pt">O SBT News é apresentado por Marcelo Martins, e apresenta os principais assuntos de Santa Catarina e também os destaques do Brasil e do Mundo.(n)</desc>
+  </programme>
+  <programme start="20241222100000 +0000" stop="20241222103000 +0000" channel="SBT">
+    <title lang="pt">Pé na Estrada</title>
+    <desc lang="pt">Com apresentação de Pedro Trucão, o programa Pé na Estrada é exibido aos domingos.(n)</desc>
+  </programme>
+  <programme start="20241222103000 +0000" stop="20241222110000 +0000" channel="SBT">
+    <title lang="pt">SBT Agro</title>
+    <desc lang="pt">Sinopse não disponível.(n)</desc>
+  </programme>
+  <programme start="20241222110000 +0000" stop="20241222120000 +0000" channel="SBT">
+    <title lang="pt">SBT Sports</title>
+    <desc lang="pt">O SBT Sports mostra tudo sobre os principais campeonatos do país e do mundo, traz análises dos jogos e comentários do elenco esportivo da emissora, além de informações exclusivas.(n)</desc>
+  </programme>
+  <programme start="20241221001000 -0300" stop="20241221010000 -0300" channel="GLOBO RJ">
+    <title lang="pt">Jornal da Globo</title>
+    <desc lang="pt">As notícias do dia com a análise de comentaristas, espaço para a crônica e opinião."},"scheduledDate":"2024-12-21T00:10:00-03:00.(n)</desc>
+  </programme>
+  <programme start="20241221010000 -0300" stop="20241221014500 -0300" channel="GLOBO RJ">
+    <title lang="pt">Volta Por Cima</title>
+    <desc lang="pt">Doralice pede que Tati volte para casa. Roxelle despreza Chico. Chega o dia do evento de Madalena. Todos se surpreendem com a decoração. Tati é sequestrada."},"scheduledDate":"2024-12-21T01:00:00-03:00.(n)</desc>
+  </programme>
+  <programme start="20241221014500 -0300" stop="20241221022000 -0300" channel="GLOBO RJ">
+    <title lang="pt">Comédia Na Madruga</title>
+    <desc lang="pt">Exibição dos melhores momentos do Vai Que Cola."},"scheduledDate":"2024-12-21T01:45:00-03:00.(n)</desc>
+  </programme>
+  <programme start="20241221022000 -0300" stop="20241221043500 -0300" channel="GLOBO RJ">
+    <title lang="pt">Corujão</title>
+    <desc lang="pt">Apesar de ingênuo, Forrest Gump vivenciou importantes momentos da história dos EUA. Porém, seu foco continua sendo seu amor de infância, Jenny"},"scheduledDate":"2024-12-21T02:20:00-03:00.(n)</desc>
+  </programme>
+  <programme start="20241221043500 -0300" stop="20241221060000 -0300" channel="GLOBO RJ">
+    <title lang="pt">Corujão</title>
+    <desc lang="pt">Na véspera do Natal, um homem de negócios enfrenta desafios para garantir que seu filho não fique sem o boneco mais desejado do momento, o Turbo-Man."},"scheduledDate":"2024-12-21T04:35:00-03:00.(n)</desc>
+  </programme>
+  <programme start="20241221060000 -0300" stop="20241221065000 -0300" channel="GLOBO RJ">
+    <title lang="pt">Globo Repórter</title>
+    <desc lang="pt">Com apresentação de Sandra Annenberg, o ‘Globo Repórter’ é o jornalístico documental que vai ao ar nas noites de sexta-feira. "},"scheduledDate":"2024-12-21T06:00:00-03:00.(n)</desc>
+  </programme>
+  <programme start="20241221065000 -0300" stop="20241221114500 -0300" channel="GLOBO RJ">
+    <title lang="pt">É de Casa</title>
+    <desc lang="pt">Maria Beltrão, Rita Batista, Thiago Oliveira e Talitha Morete comandam programa de variedades das manhãs de sábado, ao vivo."},"scheduledDate":"2024-12-21T06:50:00-03:00.(n)</desc>
+  </programme>
+  <programme start="20241221114500 -0300" stop="20241221130500 -0300" channel="GLOBO RJ">
+    <title lang="pt">RJ1</title>
+    <desc lang="pt">O telejornal, apresentado por Mariana Gross, exibe as principais notícias do Rio, com prestação de serviço e previsão do tempo."},"scheduledDate":"2024-12-21T11:45:00-03:00.(n)</desc>
+  </programme>
+  <programme start="20241221130500 -0300" stop="20241221132500 -0300" channel="GLOBO RJ">
+    <title lang="pt">Globo Esporte</title>
+    <desc lang="pt">O Globo Esporte atualiza o noticiário esportivo do dia."},"scheduledDate":"2024-12-21T13:05:00-03:00.(n)</desc>
+  </programme>
+  <programme start="20241221132500 -0300" stop="20241221141000 -0300" channel="GLOBO RJ">
+    <title lang="pt">Jornal Hoje</title>
+    <desc lang="pt">Os destaques do dia no Brasil e no mundo, com apresentação de César Tralli."},"scheduledDate":"2024-12-21T13:25:00-03:00.(n)</desc>
+  </programme>
+  <programme start="20241221141000 -0300" stop="20241221150000 -0300" channel="GLOBO RJ">
+    <title lang="pt">Caldeirão Com Mion</title>
+    <desc lang="pt">Apresentado por Marcos Mion, a nova versão do 'Caldeirão' traz alguns quadros já conhecidos do público e atrações inéditas."},"scheduledDate":"2024-12-21T14:10:00-03:00.(n)</desc>
+  </programme>
+  <programme start="20241221150000 -0300" stop="20241221163000 -0300" channel="GLOBO RJ">
+    <title lang="pt">Taça das Favelas - Final Feminina</title>
+    <desc lang="pt">Taça das Favelas - Final Feminina"},"scheduledDate":"2024-12-21T15:00:00-03:00.(n)</desc>
+  </programme>
+  <programme start="20241221163000 -0300" stop="20241221175000 -0300" channel="GLOBO RJ">
+    <title lang="pt">Taça Das Favelas - Final Masculina</title>
+    <desc lang="pt">Taça Das Favelas - Final Masculina"},"scheduledDate":"2024-12-21T16:30:00-03:00.(n)</desc>
+  </programme>
+  <programme start="20241221175000 -0300" stop="20241221184500 -0300" channel="GLOBO RJ">
+    <title lang="pt">Caldeirão Com Mion</title>
+    <desc lang="pt">Apresentado por Marcos Mion, a nova versão do 'Caldeirão' traz alguns quadros já conhecidos do público e atrações inéditas."},"scheduledDate":"2024-12-21T17:50:00-03:00.(n)</desc>
+  </programme>
+  <programme start="20241221184500 -0300" stop="20241221192500 -0300" channel="GLOBO RJ">
+    <title lang="pt">Garota do Momento</title>
+    <desc lang="pt">Nos anos 1950, Beatriz chega ao Rio de Janeiro para reencontrar a mãe, Clarice. Seu caminho acaba cruzando com Bia, jovem criada como se fosse filha de Clarice."},"scheduledDate":"2024-12-21T18:45:00-03:00.(n)</desc>
+  </programme>
+  <programme start="20241221192500 -0300" stop="20241221195000 -0300" channel="GLOBO RJ">
+    <title lang="pt">RJ2</title>
+    <desc lang="pt">Telejornal que traz as notícias locais, mostrando o que acontece na sua região, com prestação de serviço, boletins de trânsito e a previsão do tempo."},"scheduledDate":"2024-12-21T19:25:00-03:00.(n)</desc>
+  </programme>
+  <programme start="20241221195000 -0300" stop="20241221203000 -0300" channel="GLOBO RJ">
+    <title lang="pt">Volta Por Cima</title>
+    <desc lang="pt">Madá e Jão são retratos dos brasileiros que não deixam a peteca cair, driblando as adversidades da vida com resiliência e coragem de seguir em frente."},"scheduledDate":"2024-12-21T19:50:00-03:00.(n)</desc>
+  </programme>
+  <programme start="20241221203000 -0300" stop="20241221212500 -0300" channel="GLOBO RJ">
+    <title lang="pt">Jornal Nacional</title>
+    <desc lang="pt">As principais notícias do Brasil e do mundo, com apresentação de William Bonner e Renata Vasconcellos. "},"scheduledDate":"2024-12-21T20:30:00-03:00.(n)</desc>
+  </programme>
+  <programme start="20241221212500 -0300" stop="20241221223000 -0300" channel="GLOBO RJ">
+    <title lang="pt">Mania de Você</title>
+    <desc lang="pt">Escrita por João Emanuel Carneiro, a trama gira em torno duas mulheres de mundos diferentes, nascidas no mesmo dia, que têm seus destinos entrelaçados por acaso"},"scheduledDate":"2024-12-21T21:25:00-03:00.(n)</desc>
+  </programme>
+  <programme start="20241221223000 -0300" stop="20241222002000 -0300" channel="GLOBO RJ">
+    <title lang="pt">Altas Horas</title>
+    <desc lang="pt">Serginho Groisman comanda a atração, que abre espaço para boa música, encontros inesperados e entrevistas com personalidades."},"scheduledDate":"2024-12-21T22:30:00-03:00.(n)</desc>
+  </programme>
+</tv>
