@@ -1,0 +1,619 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V5.3.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="GLOBO RJ">
+    <display-name lang="pt">GLOBO RJ</display-name>
+    <icon src="https://s3.glbimg.com/v1/AUTH_b58693ed41d04a39826739159bf600a0/photos/logo-novo-barra.png" />
+    <url>http://www.redeglobo.globo.com</url>
+  </channel>
+  <channel id="BAND HD">
+    <display-name lang="pt">BAND HD</display-name>
+    <icon src="https://www.nowonline.com.br/img/channels/band.png" />
+    <url>http://www.clarotvmais.com.br</url>
+  </channel>
+  <channel id="REDE TV">
+    <display-name lang="pt">REDE TV</display-name>
+    <icon src="https://www.nowonline.com.br/img/channels/rede_tv.png" />
+    <url>http://www.clarotvmais.com.br</url>
+  </channel>
+  <channel id="SBT">
+    <display-name lang="pt">SBT</display-name>
+    <icon src="https://www.nowonline.com.br/img/channels/sbt.png" />
+    <url>http://www.clarotvmais.com.br</url>
+  </channel>
+  <programme start="20241222002000 -0300" stop="20241222015500 -0300" channel="GLOBO RJ">
+    <title lang="pt">Supercine - A Noite Mágica</title>
+    <desc lang="pt">Na véspera de Natal, a casa onde um casal mora com a sua filha pequena é invadida por um ladrão. A menina confunde o invasor com o Papai Noel."},"scheduledDate":"2024-12-22T00:20:00-03:00.(n)</desc>
+  </programme>
+  <programme start="20241222015500 -0300" stop="20241222024000 -0300" channel="GLOBO RJ">
+    <title lang="pt">Volta Por Cima</title>
+    <desc lang="pt">Madá e Jão são retratos dos brasileiros que não deixam a peteca cair, driblando as adversidades da vida com resiliência e coragem de seguir em frente."},"scheduledDate":"2024-12-22T01:55:00-03:00.(n)</desc>
+  </programme>
+  <programme start="20241222024000 -0300" stop="20241222043000 -0300" channel="GLOBO RJ">
+    <title lang="pt">Corujão</title>
+    <desc lang="pt">Mirabelle é uma jovem aspirante a artista que trabalha em uma loja de departamentos de Beverly Hills. Até que ela conhece dois homens que irão mudar sua vida.(n)</desc>
+  </programme>
+  <programme start="20241222043000 -0300" stop="20241222060000 -0300" channel="GLOBO RJ">
+    <title lang="pt">Corujão</title>
+    <desc lang="pt">Um homem descobre ter sido pai de 533 crianças, através da doação de esperma. Ele enfrenta problemas quando algumas destas crianças, já crescidas, o procuram.(n)</desc>
+  </programme>
+  <programme start="20241222060000 -0300" stop="20241222065000 -0300" channel="GLOBO RJ">
+    <title lang="pt">Santa Missa</title>
+    <desc lang="pt">Padre Marcelo Rossi celebra todos os domingos missa para todo o Brasil. Mais antigo programa da Globo."},"scheduledDate":"2024-12-22T06:00:00-03:00.(n)</desc>
+  </programme>
+  <programme start="20241222065000 -0300" stop="20241222072000 -0300" channel="GLOBO RJ">
+    <title lang="pt">Globo Comunidade RJ</title>
+    <desc lang="pt">Revista eletrônica que aborda assuntos comunitários como qualidade de vida, terceira idade etc."},"scheduledDate":"2024-12-22T06:50:00-03:00.(n)</desc>
+  </programme>
+  <programme start="20241222072000 -0300" stop="20241222080500 -0300" channel="GLOBO RJ">
+    <title lang="pt">Pequenas Empresas &amp; Grandes Negócios</title>
+    <desc lang="pt">Novidades e informação para quem quer investir e empreender no Brasil."},"scheduledDate":"2024-12-22T07:20:00-03:00.(n)</desc>
+  </programme>
+  <programme start="20241222080500 -0300" stop="20241222084000 -0300" channel="GLOBO RJ">
+    <title lang="pt">Auto Esporte</title>
+    <desc lang="pt">As principais notícias sobre o universo dos automóveis."},"scheduledDate":"2024-12-22T08:05:00-03:00.(n)</desc>
+  </programme>
+  <programme start="20241222084000 -0300" stop="20241222101500 -0300" channel="GLOBO RJ">
+    <title lang="pt">Globo Rural</title>
+    <desc lang="pt">As principais notícias do agronegócio, os índices do setor, informações sobre a vida no campo, além de reportagens especiais."},"scheduledDate":"2024-12-22T08:40:00-03:00.(n)</desc>
+  </programme>
+  <programme start="20241222101500 -0300" stop="20241222111000 -0300" channel="GLOBO RJ">
+    <title lang="pt">Viver Sertanejo</title>
+    <desc lang="pt">Com “causos”, momentos emocionantes e risadas, Daniel e convidados compartilham histórias de como a música serve de pano de fundo para muitos brasileiros."},"scheduledDate":"2024-12-22T10:15:00-03:00.(n)</desc>
+  </programme>
+  <programme start="20241222111000 -0300" stop="20241222130000 -0300" channel="GLOBO RJ">
+    <title lang="pt">Esporte Espetacular</title>
+    <desc lang="pt">Além de transmitir partidas e campeonatos ao vivo, o programa semanal apresenta os destaques do mundo esportivo, entrevistas e reportagens especiais."},"scheduledDate":"2024-12-22T11:10:00-03:00.(n)</desc>
+  </programme>
+  <programme start="20241222130000 -0300" stop="20241222142500 -0300" channel="GLOBO RJ">
+    <title lang="pt">Magnum P.I.</title>
+    <desc lang="pt">Na 2ª temporada da série, o investigador Thomas Magnum assume novos casos com a ajuda da agente Juliet Higgins e dos veteranos Orville Wright e Theodore Calvin."},"scheduledDate":"2024-12-22T13:00:00-03:00.(n)</desc>
+  </programme>
+  <programme start="20241222142500 -0300" stop="20241222161500 -0300" channel="GLOBO RJ">
+    <title lang="pt">Temperatura Máxima - Malévola: Dona do Mal</title>
+    <desc lang="pt">Malévola e sua afilhada Aurora começam a questionar os complexos laços familiares que as unem enquanto são puxadas em direções diferentes.(n)</desc>
+  </programme>
+  <programme start="20241222161500 -0300" stop="20241222173000 -0300" channel="GLOBO RJ">
+    <title lang="pt">Especial The Masked Singer Brasil</title>
+    <desc lang="pt">Especial The Masked Singer Brasil"},"scheduledDate":"2024-12-22T16:15:00-03:00.(n)</desc>
+  </programme>
+  <programme start="20241222173000 -0300" stop="20241222203000 -0300" channel="GLOBO RJ">
+    <title lang="pt">Domingão Com Huck</title>
+    <desc lang="pt">Entretenimento, diversão, emoção e novas descobertas nos quadros ‘Show dos famosos’ e ‘Quem quer ser um milionário?’ e em matérias especiais pelo país."},"scheduledDate":"2024-12-22T17:30:00-03:00.(n)</desc>
+  </programme>
+  <programme start="20241222203000 -0300" stop="20241222232000 -0300" channel="GLOBO RJ">
+    <title lang="pt">Fantástico</title>
+    <desc lang="pt">Reportagens especiais e as notícias mais importantes da semana, com apresentação de Maju Coutinho e Poliana Abritta. "},"scheduledDate":"2024-12-22T20:30:00-03:00.(n)</desc>
+  </programme>
+  <programme start="20241222232000 -0300" stop="20241222235500 -0300" channel="GLOBO RJ">
+    <title lang="pt">Tô Nessa!</title>
+    <desc lang="pt">Em um lar onde falta dinheiro, mas sobra amor e união, Mirinda e sua família se desdobram com as ideias mais inusitadas para conseguir pagar o boleto da vez. "},"scheduledDate":"2024-12-22T23:20:00-03:00.(n)</desc>
+  </programme>
+  <programme start="20241222235500 -0300" stop="20241223020000 -0300" channel="GLOBO RJ">
+    <title lang="pt">Domingo Maior - Rota de Fuga 3</title>
+    <desc lang="pt">Quando Ray Breslin é contratado para recuperar a filha sequestrada de um gênio da tecnologia em Hong Kong, sua namorada também é capturada pelo mesmo criminoso."},"scheduledDate":"2024-12-22T23:55:00-03:00.(n)</desc>
+  </programme>
+  <programme start="20241223020000 -0300" stop="20241223040000 -0300" channel="GLOBO RJ">
+    <title lang="pt">Cinemaço - Gladiador</title>
+    <desc lang="pt">General romano tem a família massacrada e escapa da morte por recusar lealdade a Commodus. Vendido como escravo, ele retorna a Roma em busca de vingança."},"scheduledDate":"2024-12-23T02:00:00-03:00.(n)</desc>
+  </programme>
+  <programme start="20241223040000 -0300" stop="20241223060000 -0300" channel="GLOBO RJ">
+    <title lang="pt">Hora Um</title>
+    <desc lang="pt">Os assuntos mais importantes do Brasil e do mundo, com apresentação de Roberto Kovalick."},"scheduledDate":"2024-12-23T04:00:00-03:00.(n)</desc>
+  </programme>
+  <programme start="20241223060000 -0300" stop="20241223083000 -0300" channel="GLOBO RJ">
+    <title lang="pt">Bom Dia Rio</title>
+    <desc lang="pt">As primeiras notícias do Rio de Janeiro, apresentadas por Flávio Fachel, com prestação de serviço, boletins de trânsito e previsão do tempo."},"scheduledDate":"2024-12-23T06:00:00-03:00.(n)</desc>
+  </programme>
+  <programme start="20241223083000 -0300" stop="20241223093000 -0300" channel="GLOBO RJ">
+    <title lang="pt">Bom Dia Brasil</title>
+    <desc lang="pt">O telejornal, com apresentação de Ana Paula Araújo, exibe as primeiras notícias do dia no Brasil e no mundo e repercute os fatos mais relevantes."},"scheduledDate":"2024-12-23T08:30:00-03:00.(n)</desc>
+  </programme>
+  <programme start="20241223093000 -0300" stop="20241223103500 -0300" channel="GLOBO RJ">
+    <title lang="pt">Encontro Com Patrícia Poeta</title>
+    <desc lang="pt">Patrícia Poeta comanda o programa que mistura comportamento, prestação de serviço, informação, música, entretenimento e muita diversão."},"scheduledDate":"2024-12-23T09:30:00-03:00.(n)</desc>
+  </programme>
+  <programme start="20241223103500 -0300" stop="20241223114500 -0300" channel="GLOBO RJ">
+    <title lang="pt">Mais Você</title>
+    <desc lang="pt">Ana Maria Braga apresenta assuntos de interesse da família, como economia popular e saúde, além das delícias da culinária."},"scheduledDate":"2024-12-23T10:35:00-03:00.(n)</desc>
+  </programme>
+  <programme start="20241223114500 -0300" stop="20241223130500 -0300" channel="GLOBO RJ">
+    <title lang="pt">RJ1</title>
+    <desc lang="pt">O telejornal, apresentado por Mariana Gross, exibe as principais notícias do Rio, com prestação de serviço e previsão do tempo."},"scheduledDate":"2024-12-23T11:45:00-03:00.(n)</desc>
+  </programme>
+  <programme start="20241223130500 -0300" stop="20241223132500 -0300" channel="GLOBO RJ">
+    <title lang="pt">Globo Esporte</title>
+    <desc lang="pt">O Globo Esporte atualiza o noticiário esportivo do dia."},"scheduledDate":"2024-12-23T13:05:00-03:00.(n)</desc>
+  </programme>
+  <programme start="20241223132500 -0300" stop="20241223144500 -0300" channel="GLOBO RJ">
+    <title lang="pt">Jornal Hoje</title>
+    <desc lang="pt">Os destaques do dia no Brasil e no mundo, com apresentação de César Tralli."},"scheduledDate":"2024-12-23T13:25:00-03:00.(n)</desc>
+  </programme>
+  <programme start="20241223144500 -0300" stop="20241223152500 -0300" channel="GLOBO RJ">
+    <title lang="pt">Edição Especial - Cabocla</title>
+    <desc lang="pt">Segunda versão da obra de Benedito Ruy Barbosa, escrita pelas filhas do autor, gira em torno do amor de Zuca e Luís Jerônimo, entremeada por disputas políticas."},"scheduledDate":"2024-12-23T14:45:00-03:00.(n)</desc>
+  </programme>
+  <programme start="20241223152500 -0300" stop="20241223170000 -0300" channel="GLOBO RJ">
+    <title lang="pt">Sessão da Tarde - Um Natal Entre Nós</title>
+    <desc lang="pt">Melvin, um autor britânico que vive na América, retorna para casa em Londres no Natal para apresentar sua noiva americana Lisa aos seus excêntricos pais.x"},"scheduledDate":"2024-12-23T15:25:00-03:00.(n)</desc>
+  </programme>
+  <programme start="20241223170000 -0300" stop="20241223182000 -0300" channel="GLOBO RJ">
+    <title lang="pt">Vale a Pena Ver de Novo - Tieta</title>
+    <desc lang="pt">A jovem Tieta é expulsa de Santana do Agreste pelo pai. Depois de 25 anos, ela volta rica, exuberante e decidida a se vingar das pessoas que a maltrataram. "},"scheduledDate":"2024-12-23T17:00:00-03:00.(n)</desc>
+  </programme>
+  <programme start="20241223182000 -0300" stop="20241223191000 -0300" channel="GLOBO RJ">
+    <title lang="pt">Garota do Momento</title>
+    <desc lang="pt">Nos anos 1950, Beatriz chega ao Rio de Janeiro para reencontrar a mãe, Clarice. Seu caminho acaba cruzando com Bia, jovem criada como se fosse filha de Clarice."},"scheduledDate":"2024-12-23T18:20:00-03:00.(n)</desc>
+  </programme>
+  <programme start="20241223191000 -0300" stop="20241223194500 -0300" channel="GLOBO RJ">
+    <title lang="pt">RJ2</title>
+    <desc lang="pt">Telejornal que traz as notícias locais, mostrando o que acontece na sua região, com prestação de serviço, boletins de trânsito e a previsão do tempo."},"scheduledDate":"2024-12-23T19:10:00-03:00.(n)</desc>
+  </programme>
+  <programme start="20241223194500 -0300" stop="20241223203000 -0300" channel="GLOBO RJ">
+    <title lang="pt">Volta Por Cima</title>
+    <desc lang="pt">Madá e Jão são retratos dos brasileiros que não deixam a peteca cair, driblando as adversidades da vida com resiliência e coragem de seguir em frente."},"scheduledDate":"2024-12-23T19:45:00-03:00.(n)</desc>
+  </programme>
+  <programme start="20241223203000 -0300" stop="20241223212500 -0300" channel="GLOBO RJ">
+    <title lang="pt">Jornal Nacional</title>
+    <desc lang="pt">As principais notícias do Brasil e do mundo, com apresentação de William Bonner e Renata Vasconcellos. "},"scheduledDate":"2024-12-23T20:30:00-03:00.(n)</desc>
+  </programme>
+  <programme start="20241223212500 -0300" stop="20241223223000 -0300" channel="GLOBO RJ">
+    <title lang="pt">Mania de Você</title>
+    <desc lang="pt">Escrita por João Emanuel Carneiro, a trama gira em torno duas mulheres de mundos diferentes, nascidas no mesmo dia, que têm seus destinos entrelaçados por acaso"},"scheduledDate":"2024-12-23T21:25:00-03:00.(n)</desc>
+  </programme>
+  <programme start="20241223223000 -0300" stop="20241224001500 -0300" channel="GLOBO RJ">
+    <title lang="pt">Tela Quente - Trem-Bala</title>
+    <desc lang="pt">Cinco assassinos a bordo de um trem-bala em movimento descobrem que suas missões têm algo em comum."},"scheduledDate":"2024-12-23T22:30:00-03:00.(n)</desc>
+  </programme>
+  <programme start="20241222210000 +0000" stop="20241222230000 +0000" channel="BAND HD">
+    <title lang="pt">Domingo no Cinema: O Acordo</title>
+    <desc lang="pt">Aos 18 anos de idade, Jason é condenado a dez anos de prisão após ser pego com um pacote de drogas, que carregava sem ter conhecimento do conteúdo. Seu pai, um empresário chamado John Matthews, fica devastado com a not...(n)</desc>
+  </programme>
+  <programme start="20241222230000 +0000" stop="20241223010000 +0000" channel="BAND HD">
+    <title lang="pt">Perrengue na Band</title>
+    <desc lang="pt">Programa humorístico que garante muita diversão para toda a família.(n)</desc>
+  </programme>
+  <programme start="20241223010000 +0000" stop="20241223023000 +0000" channel="BAND HD">
+    <title lang="pt">Programa do João</title>
+    <desc lang="pt">Um programa de auditório que vai trazer muita animação e uma ampla variedade de conteúdo.(n)</desc>
+  </programme>
+  <programme start="20241223023000 +0000" stop="20241223033500 +0000" channel="BAND HD">
+    <title lang="pt">Canal Livre</title>
+    <desc lang="pt">Entrevistas com personalidades nacionais e internacionais, chefes de estado, lideranças da política e expoentes das áreas econômica, empresarial, cultural, esportiva e científica. Um momento para análise e reflexão.(n)</desc>
+  </programme>
+  <programme start="20241223033500 +0000" stop="20241223051500 +0000" channel="BAND HD">
+    <title lang="pt">Linha de Combate - Reapresentação</title>
+    <desc lang="pt">O programa que acompanha a rotina dos homens e mulheres que dedicam suas vidas para defender a população.(n)</desc>
+  </programme>
+  <programme start="20241223051500 +0000" stop="20241223053500 +0000" channel="BAND HD">
+    <title lang="pt">+info</title>
+    <desc lang="pt">Reportagens especiais sobre todos ao assuntos, do Brasil e do Mundo.(n)</desc>
+  </programme>
+  <programme start="20241223053500 +0000" stop="20241223070000 +0000" channel="BAND HD">
+    <title lang="pt">Sessão Especial: O Preço da Ganância</title>
+    <desc lang="pt">Durante uma excursão de fim de semana na mata, três amigos descobrem quatro malas cheias de dinheiro.(n)</desc>
+  </programme>
+  <programme start="20241223070000 +0000" stop="20241223080000 +0000" channel="BAND HD">
+    <title lang="pt">Outlander</title>
+    <desc lang="pt">Jamie precisa contornar um pântano para liderar o exército jacobita e vencer o exército britânico em uma batalha crítica.(n)</desc>
+  </programme>
+  <programme start="20241223080000 +0000" stop="20241223082500 +0000" channel="BAND HD">
+    <title lang="pt">Do Levain Ao Pão</title>
+    <desc lang="pt">O premiado padeiro Rogério Shimura, traz todos os detalhes e segredos da arte de transformar o fermento natural em pão.(n)</desc>
+  </programme>
+  <programme start="20241223082500 +0000" stop="20241223084500 +0000" channel="BAND HD">
+    <title lang="pt">O Melhor Prato</title>
+    <desc lang="pt">Comandado pela chef Giuliana Giunti, o programa foca em técnicas culinárias e receitas que ajudam a ter praticidade no dia a dia.(n)</desc>
+  </programme>
+  <programme start="20241223084500 +0000" stop="20241223090000 +0000" channel="BAND HD">
+    <title lang="pt">Oração do Dia com Profeta Vinícius Iracet</title>
+    <desc lang="pt">O Profeta Vinícius busca impactar pessoas através de conteúdos que trazem ensinamento do ouvir a voz de Deus e a orar.(n)</desc>
+  </programme>
+  <programme start="20241223090000 +0000" stop="20241223094500 +0000" channel="BAND HD">
+    <title lang="pt">Igreja das Nações</title>
+    <desc lang="pt">Informação aos fiéis.(n)</desc>
+  </programme>
+  <programme start="20241223094500 +0000" stop="20241223110000 +0000" channel="BAND HD">
+    <title lang="pt">Jornal Bandnews</title>
+    <desc lang="pt">As principais noticias da hora com a equipe do canal especializado em jornalismo, 24 horas por dia.(n)</desc>
+  </programme>
+  <programme start="20241223110000 +0000" stop="20241223111500 +0000" channel="BAND HD">
+    <title lang="pt">Agro Band</title>
+    <desc lang="pt">O programa conta com entrevistas de convidados ligados à agricultura, reportagens especiais para debater e refletir sobre o setor primário, notícias sobre safras, eventos, e tudo que envolve o mundo do agrobusiness.(n)</desc>
+  </programme>
+  <programme start="20241223111500 +0000" stop="20241223140000 +0000" channel="BAND HD">
+    <title lang="pt">Bora Brasil</title>
+    <desc lang="pt">As principais informações do Brasil e do Mundo com leveza, interatividade e credibilidade.(n)</desc>
+  </programme>
+  <programme start="20241223140000 +0000" stop="20241223150000 +0000" channel="BAND HD">
+    <title lang="pt">Jogo Aberto</title>
+    <desc lang="pt">Programa diário de jornalismo esportivo repleto de debates e tudo o que você precisa saber sobre o futebol e os demais esportes no Brasil e ao redor do mundo.(n)</desc>
+  </programme>
+  <programme start="20241223150000 +0000" stop="20241223160000 +0000" channel="BAND HD">
+    <title lang="pt">Jogo Aberto - Debate</title>
+    <desc lang="pt">Notícias, debates diários e tudo o que você precisa saber sobre o futebol e os demais esportes no Brasil e ao redor do mundo.(n)</desc>
+  </programme>
+  <programme start="20241223160000 +0000" stop="20241223173000 +0000" channel="BAND HD">
+    <title lang="pt">Os Donos da Bola</title>
+    <desc lang="pt">O programa de debate sobre o mundo do futebol mais bem humorado da TV.(n)</desc>
+  </programme>
+  <programme start="20241223173000 +0000" stop="20241223190000 +0000" channel="BAND HD">
+    <title lang="pt">Melhor Da Tarde com Catia Fonseca</title>
+    <desc lang="pt">Dicas de bem-estar, culinária, fofocas, astrologia e muito mais. Todo dia, uma tarde diferente com um time completo de colaboradores.(n)</desc>
+  </programme>
+  <programme start="20241223190000 +0000" stop="20241223222000 +0000" channel="BAND HD">
+    <title lang="pt">Brasil Urgente</title>
+    <desc lang="pt">Os acontecimentos do dia, com foco na segurança, no transporte, na saúde, no trabalho e no comportamento do povo Brasileiro.(n)</desc>
+  </programme>
+  <programme start="20241223222000 +0000" stop="20241223232500 +0000" channel="BAND HD">
+    <title lang="pt">Jornal da Band</title>
+    <desc lang="pt">Noticiário diário que apresenta os principais acontecimentos no Brasil e no Mundo com neutralidade e profissionalismo.(n)</desc>
+  </programme>
+  <programme start="20241223232500 +0000" stop="20241224002000 +0000" channel="BAND HD">
+    <title lang="pt">Melhor da Noite</title>
+    <desc lang="pt">Programa de entretenimento que uni informação e diversão em um só lugar.(n)</desc>
+  </programme>
+  <programme start="20241224002000 +0000" stop="20241224011500 +0000" channel="BAND HD">
+    <title lang="pt">Show da Fé</title>
+    <desc lang="pt">Acompanhe depoimentos, testemunhos e histórias surpreendentes de amor e de superação.(n)</desc>
+  </programme>
+  <programme start="20241224011500 +0000" stop="20241224014500 +0000" channel="BAND HD">
+    <title lang="pt">Perrengue do Dia</title>
+    <desc lang="pt">Programa humorístico que garante muita diversão para toda a família.(n)</desc>
+  </programme>
+  <programme start="20241224014500 +0000" stop="20241224031500 +0000" channel="BAND HD">
+    <title lang="pt">Pesadelo Na Cozinha</title>
+    <desc lang="pt">O exigente chef Erick Jaquin comanda o reality que dá consultoria aos restaurantes participantes. Com orientação ou broncas. O chef mostra ao longo das edições o que é necessário para evitar que mais restaurantes...(n)</desc>
+  </programme>
+  <programme start="20241224031500 +0000" stop="20241224041000 +0000" channel="BAND HD">
+    <title lang="pt">Jornal da Noite</title>
+    <desc lang="pt">Análises, entrevistas, matérias especiais e todos os fatos relevantes do dia no Brasil e no Mundo.(n)</desc>
+  </programme>
+  <programme start="20241224041000 +0000" stop="20241224050500 +0000" channel="BAND HD">
+    <title lang="pt">Bola Rolando BandSports</title>
+    <desc lang="pt">Análises e muito debate sobre o futebol.(n)</desc>
+  </programme>
+  <programme start="20241224050500 +0000" stop="20241224054000 +0000" channel="BAND HD">
+    <title lang="pt">Resenha do Galinho</title>
+    <desc lang="pt">Um programa jornalístico onde Zico comanda um bate-papo descontraído a respeito do mundo dos esportes.(n)</desc>
+  </programme>
+  <programme start="20241224054000 +0000" stop="20241224060000 +0000" channel="BAND HD">
+    <title lang="pt">+info</title>
+    <desc lang="pt">Reportagens especiais sobre todos ao assuntos, do Brasil e do Mundo.(n)</desc>
+  </programme>
+  <programme start="20241224060000 +0000" stop="20241224070000 +0000" channel="BAND HD">
+    <title lang="pt">Jornal da Band - Reapresentação</title>
+    <desc lang="pt">Noticiário diário que apresenta os principais acontecimentos no Brasil e no Mundo com neutralidade e profissionalismo.(n)</desc>
+  </programme>
+  <programme start="20241224070000 +0000" stop="20241224080000 +0000" channel="BAND HD">
+    <title lang="pt">Outlander</title>
+    <desc lang="pt">Claire e os Highlanders são enviados para o norte depois que os líderes jacobitas decidiram interromper sua marcha sobre Londres.(n)</desc>
+  </programme>
+  <programme start="20241224080000 +0000" stop="20241224082500 +0000" channel="BAND HD">
+    <title lang="pt">Na Cozinha da Helô</title>
+    <desc lang="pt">A chef Heloisa Bacellar (Helô) se formou em Paris na renomada Le Cordon Bleu, desde então fundou cursos de gastronomia onde ministrou deliciosas aulas e também escreveu diversos livros lançados no Brasil e exterior.(n)</desc>
+  </programme>
+  <programme start="20241224082500 +0000" stop="20241224084500 +0000" channel="BAND HD">
+    <title lang="pt">O Melhor Prato</title>
+    <desc lang="pt">Comandado pela chef Giuliana Giunti, o programa foca em técnicas culinárias e receitas que ajudam a ter praticidade no dia a dia.(n)</desc>
+  </programme>
+  <programme start="20241224084500 +0000" stop="20241224090000 +0000" channel="BAND HD">
+    <title lang="pt">Oração do Dia com Profeta Vinícius Iracet</title>
+    <desc lang="pt">O Profeta Vinícius busca impactar pessoas através de conteúdos que trazem ensinamento do ouvir a voz de Deus e a orar.(n)</desc>
+  </programme>
+  <programme start="20241224090000 +0000" stop="20241224094500 +0000" channel="BAND HD">
+    <title lang="pt">Igreja das Nações</title>
+    <desc lang="pt">Informação aos fiéis.(n)</desc>
+  </programme>
+  <programme start="20241224094500 +0000" stop="20241224110000 +0000" channel="BAND HD">
+    <title lang="pt">Jornal Bandnews</title>
+    <desc lang="pt">As principais noticias da hora com a equipe do canal especializado em jornalismo, 24 horas por dia.(n)</desc>
+  </programme>
+  <programme start="20241224110000 +0000" stop="20241224111500 +0000" channel="BAND HD">
+    <title lang="pt">Agro Band</title>
+    <desc lang="pt">O programa conta com entrevistas de convidados ligados à agricultura, reportagens especiais para debater e refletir sobre o setor primário, notícias sobre safras, eventos, e tudo que envolve o mundo do agrobusiness.(n)</desc>
+  </programme>
+  <programme start="20241224111500 +0000" stop="20241224140000 +0000" channel="BAND HD">
+    <title lang="pt">Bora Brasil</title>
+    <desc lang="pt">As principais informações do Brasil e do Mundo com leveza, interatividade e credibilidade.(n)</desc>
+  </programme>
+  <programme start="20241224140000 +0000" stop="20241224150000 +0000" channel="BAND HD">
+    <title lang="pt">Jogo Aberto</title>
+    <desc lang="pt">Programa diário de jornalismo esportivo repleto de debates e tudo o que você precisa saber sobre o futebol e os demais esportes no Brasil e ao redor do mundo.(n)</desc>
+  </programme>
+  <programme start="20241224150000 +0000" stop="20241224160000 +0000" channel="BAND HD">
+    <title lang="pt">Jogo Aberto - Debate</title>
+    <desc lang="pt">Notícias, debates diários e tudo o que você precisa saber sobre o futebol e os demais esportes no Brasil e ao redor do mundo.(n)</desc>
+  </programme>
+  <programme start="20241224160000 +0000" stop="20241224173000 +0000" channel="BAND HD">
+    <title lang="pt">Os Donos da Bola</title>
+    <desc lang="pt">O programa de debate sobre o mundo do futebol mais bem humorado da TV.(n)</desc>
+  </programme>
+  <programme start="20241224173000 +0000" stop="20241224190000 +0000" channel="BAND HD">
+    <title lang="pt">Melhor Da Tarde com Catia Fonseca</title>
+    <desc lang="pt">Dicas de bem-estar, culinária, fofocas, astrologia e muito mais. Todo dia, uma tarde diferente com um time completo de colaboradores.(n)</desc>
+  </programme>
+  <programme start="20241224190000 +0000" stop="20241224222000 +0000" channel="BAND HD">
+    <title lang="pt">Brasil Urgente</title>
+    <desc lang="pt">Os acontecimentos do dia, com foco na segurança, no transporte, na saúde, no trabalho e no comportamento do povo Brasileiro.(n)</desc>
+  </programme>
+  <programme start="20241222210000 +0000" stop="20241222233000 +0000" channel="REDE TV">
+    <title lang="pt">Geral Do Povo</title>
+    <desc lang="pt">Luz, câmera e muita emoção! O maior contador de histórias está de volta. Todo domingo, Geraldo Luís apresenta na tela da RedeTV! o GERAL DO POVO, seu novo programa de variedades, repleto de novidades, surpresas e dive...(n)</desc>
+  </programme>
+  <programme start="20241222233000 +0000" stop="20241223010000 +0000" channel="REDE TV">
+    <title lang="pt">João Kléber Show</title>
+    <desc lang="pt">JOÃO KLÉBER SHOW é um programa que resgata o lado humorístico de um dos maiores comunicadores da TV brasileira. Com suas esquetes divertidas e pegadinhas surpreendentes, o programa alcança a marca de bilhões de visual...(n)</desc>
+  </programme>
+  <programme start="20241223010000 +0000" stop="20241223013000 +0000" channel="REDE TV">
+    <title lang="pt">Palpite Do Milhão</title>
+    <desc lang="pt">Programa que engloba a promoção \"Palpite Premiado\", do FESTIVAL DE PRÊMIOS, mesclando entretenimento e sorteio de premiação.(n)</desc>
+  </programme>
+  <programme start="20241223013000 +0000" stop="20241223023000 +0000" channel="REDE TV">
+    <title lang="pt">Podk Liberados</title>
+    <desc lang="pt">No PODK LIBERADOS, Jorge Kajuru e a senadora Leila do Vôlei comandam entrevistas descontraídas e sinceras com figuras de destaque no cenário político, esportivo e cultural do Brasil.(n)</desc>
+  </programme>
+  <programme start="20241223023000 +0000" stop="20241223033000 +0000" channel="REDE TV">
+    <title lang="pt">NFL na RedeTV!</title>
+    <desc lang="pt">O maior evento esportivo do mundo é da RedeTV! Todo domingo, você acompanha os principais lances do futebol americano com os astros da NFL.(n)</desc>
+  </programme>
+  <programme start="20241223033000 +0000" stop="20241223044500 +0000" channel="REDE TV">
+    <title lang="pt">Mega Sonho</title>
+    <desc lang="pt">O programa MEGA SONHO será um game show em três fases. Seis participantes, divididos em dois grupos, disputam para chegar a eliminatória.(n)</desc>
+  </programme>
+  <programme start="20241223044500 +0000" stop="20241223060000 +0000" channel="REDE TV">
+    <title lang="pt">Madrugada Animada</title>
+    <desc lang="pt">Programa humorístico com esquetes divertidas, pegadinhas e trolagens, que irão fazer sua MADRUGADA ANIMADA.(n)</desc>
+  </programme>
+  <programme start="20241223060000 +0000" stop="20241223080000 +0000" channel="REDE TV">
+    <title lang="pt">Igreja da Graça No Seu Lar</title>
+    <desc lang="pt">Cultos realizados com ensinamentos bíblicos, louvor e adoração.(n)</desc>
+  </programme>
+  <programme start="20241223080000 +0000" stop="20241223113000 +0000" channel="REDE TV">
+    <title lang="pt">Igreja Internacional da Graça de Deus</title>
+    <desc lang="pt">Acompanhe a programação da Igreja Internacional da Graça de Deus.(n)</desc>
+  </programme>
+  <programme start="20241223113000 +0000" stop="20241223123000 +0000" channel="REDE TV">
+    <title lang="pt">Igreja Universal do Reino de Deus</title>
+    <desc lang="pt">Acompanhe momentos de fé proporcionados pela Igreja Universal do Reino de Deus.(n)</desc>
+  </programme>
+  <programme start="20241223123000 +0000" stop="20241223130000 +0000" channel="REDE TV">
+    <title lang="pt">Ultrafarma</title>
+    <desc lang="pt">Confira a venda de remédios pela televisão promovida pela Ultrafarma.(n)</desc>
+  </programme>
+  <programme start="20241223130000 +0000" stop="20241223132000 +0000" channel="REDE TV">
+    <title lang="pt">Festival de Prêmios</title>
+    <desc lang="pt">Programa  em estudio de entretenimento com musicais, entrevistas, videos, materias e promoção.(n)</desc>
+  </programme>
+  <programme start="20241223132000 +0000" stop="20241223145000 +0000" channel="REDE TV">
+    <title lang="pt">Fica Com a Gente</title>
+    <desc lang="pt">O programa FICA COM A GENTE seá voltado para a culinária, onde diariamente o Chef Edu Guedes irá preparar receitas práticas com a finalidade de entreter e ensinar seus telepectadores.(n)</desc>
+  </programme>
+  <programme start="20241223145000 +0000" stop="20241223153000 +0000" channel="REDE TV">
+    <title lang="pt">A Hora Do Zap</title>
+    <desc lang="pt">Sequência de vídeos descontraídos com comentários divertidos.(n)</desc>
+  </programme>
+  <programme start="20241223153000 +0000" stop="20241223160000 +0000" channel="REDE TV">
+    <title lang="pt">Viva Sorte</title>
+    <desc lang="pt">Concorra a uma casa própria e prêmios em dinheiro com o título de capitalização Viva Sorte.(n)</desc>
+  </programme>
+  <programme start="20241223160000 +0000" stop="20241223180000 +0000" channel="REDE TV">
+    <title lang="pt">Igreja Universal do Reino de Deus</title>
+    <desc lang="pt">Acompanhe momentos de fé proporcionados pela Igreja Universal do Reino de Deus.(n)</desc>
+  </programme>
+  <programme start="20241223180000 +0000" stop="20241223200000 +0000" channel="REDE TV">
+    <title lang="pt">A Tarde é Sua</title>
+    <desc lang="pt">Mais do que entreter, Sonia Abrão mantém você em dia com os fatos mais relevantes do mundo dos famosos e as principais novidades do dia. Tudo em uma roda de conversa descontraída, com a linguagem simples e opinião forte.(n)</desc>
+  </programme>
+  <programme start="20241223200000 +0000" stop="20241223210000 +0000" channel="REDE TV">
+    <title lang="pt">Igreja Universal do Reino de Deus</title>
+    <desc lang="pt">Acompanhe momentos de fé proporcionados pela Igreja Universal do Reino de Deus.(n)</desc>
+  </programme>
+  <programme start="20241223210000 +0000" stop="20241223220000 +0000" channel="REDE TV">
+    <title lang="pt">Marjo Prêmios</title>
+    <desc lang="pt">MARJO PRÊMIOS é um programa de variedades com games ao vivo com os telespectadores e sorteios de prêmios, além de entrevistas e reportagens nas ruas.(n)</desc>
+  </programme>
+  <programme start="20241223220000 +0000" stop="20241223222000 +0000" channel="REDE TV">
+    <title lang="pt">Elas Em Jogo</title>
+    <desc lang="pt">O Brasil é o país do futebol, também para elas. As craques dos grandes clubes do futebol brasileiro já fazem bater forte o coração do torcedor e das torcedoras. Por isso, a RedeTV! tem um programa exclusivo sobre fute...(n)</desc>
+  </programme>
+  <programme start="20241223222000 +0000" stop="20241223233000 +0000" channel="REDE TV">
+    <title lang="pt">RedeTV! News</title>
+    <desc lang="pt">Apresentado por Amanda Klein e Augusto Xavier, o REDETV! NEWS traz as principais notícias do dia, com análises políticas e econômicas, além de reportagens especiais com repórteres de todo o Brasil e do mundo.(n)</desc>
+  </programme>
+  <programme start="20241223233000 +0000" stop="20241224003000 +0000" channel="REDE TV">
+    <title lang="pt">Igreja Internacional da Graça de Deus</title>
+    <desc lang="pt">Acompanhe a programação da Igreja Internacional da Graça de Deus.(n)</desc>
+  </programme>
+  <programme start="20241224003000 +0000" stop="20241224021500 +0000" channel="REDE TV">
+    <title lang="pt">TV Fama</title>
+    <desc lang="pt">Seu acesso às festas mais badaladas, aos bastidores dos eventos exclusivos e às casas dos mais ricos e famosos. O que acontece no mundo da moda, beleza, estilo e comportamento de um jeito único.(n)</desc>
+  </programme>
+  <programme start="20241224021500 +0000" stop="20241224034500 +0000" channel="REDE TV">
+    <title lang="pt">Companhia Certa</title>
+    <desc lang="pt">O programa COMPANHIA CERTA destaca o talento inigualável de Ronnie Von em conduzir conversas inteligentes e descontraídas, sempre acompanhadas por bebidas sofisticadas e conteúdo de alta qualidade.(n)</desc>
+  </programme>
+  <programme start="20241224034500 +0000" stop="20241224043000 +0000" channel="REDE TV">
+    <title lang="pt">Leitura Dinâmica</title>
+    <desc lang="pt">Com originalidade e muita informação, o LEITURA DINÂMICA apresenta o que foi destaque no dia e o que será manchete amanhã. O jornal aborda ainda o universo da moda e cultura.(n)</desc>
+  </programme>
+  <programme start="20241224043000 +0000" stop="20241224060000 +0000" channel="REDE TV">
+    <title lang="pt">Madrugada Animada</title>
+    <desc lang="pt">Programa humorístico com esquetes divertidas, pegadinhas e trolagens, que irão fazer sua MADRUGADA ANIMADA.(n)</desc>
+  </programme>
+  <programme start="20241224060000 +0000" stop="20241224080000 +0000" channel="REDE TV">
+    <title lang="pt">Igreja da Graça No Seu Lar</title>
+    <desc lang="pt">Cultos realizados com ensinamentos bíblicos, louvor e adoração.(n)</desc>
+  </programme>
+  <programme start="20241224080000 +0000" stop="20241224113000 +0000" channel="REDE TV">
+    <title lang="pt">Igreja Internacional da Graça de Deus</title>
+    <desc lang="pt">Acompanhe a programação da Igreja Internacional da Graça de Deus.(n)</desc>
+  </programme>
+  <programme start="20241224113000 +0000" stop="20241224123000 +0000" channel="REDE TV">
+    <title lang="pt">Igreja Universal do Reino de Deus</title>
+    <desc lang="pt">Acompanhe momentos de fé proporcionados pela Igreja Universal do Reino de Deus.(n)</desc>
+  </programme>
+  <programme start="20241224123000 +0000" stop="20241224130000 +0000" channel="REDE TV">
+    <title lang="pt">Ultrafarma</title>
+    <desc lang="pt">Confira a venda de remédios pela televisão promovida pela Ultrafarma.(n)</desc>
+  </programme>
+  <programme start="20241224130000 +0000" stop="20241224132000 +0000" channel="REDE TV">
+    <title lang="pt">Festival de Prêmios</title>
+    <desc lang="pt">Programa  em estudio de entretenimento com musicais, entrevistas, videos, materias e promoção.(n)</desc>
+  </programme>
+  <programme start="20241224132000 +0000" stop="20241224145000 +0000" channel="REDE TV">
+    <title lang="pt">Fica Com a Gente</title>
+    <desc lang="pt">O programa FICA COM A GENTE seá voltado para a culinária, onde diariamente o Chef Edu Guedes irá preparar receitas práticas com a finalidade de entreter e ensinar seus telepectadores.(n)</desc>
+  </programme>
+  <programme start="20241224145000 +0000" stop="20241224153000 +0000" channel="REDE TV">
+    <title lang="pt">A Hora Do Zap</title>
+    <desc lang="pt">Sequência de vídeos descontraídos com comentários divertidos.(n)</desc>
+  </programme>
+  <programme start="20241224153000 +0000" stop="20241224160000 +0000" channel="REDE TV">
+    <title lang="pt">Viva Sorte</title>
+    <desc lang="pt">Concorra a uma casa própria e prêmios em dinheiro com o título de capitalização Viva Sorte.(n)</desc>
+  </programme>
+  <programme start="20241224160000 +0000" stop="20241224180000 +0000" channel="REDE TV">
+    <title lang="pt">Igreja Universal do Reino de Deus</title>
+    <desc lang="pt">Acompanhe momentos de fé proporcionados pela Igreja Universal do Reino de Deus.(n)</desc>
+  </programme>
+  <programme start="20241224180000 +0000" stop="20241224200000 +0000" channel="REDE TV">
+    <title lang="pt">A Tarde é Sua</title>
+    <desc lang="pt">Mais do que entreter, Sonia Abrão mantém você em dia com os fatos mais relevantes do mundo dos famosos e as principais novidades do dia. Tudo em uma roda de conversa descontraída, com a linguagem simples e opinião forte.(n)</desc>
+  </programme>
+  <programme start="20241224200000 +0000" stop="20241224210000 +0000" channel="REDE TV">
+    <title lang="pt">Igreja Universal do Reino de Deus</title>
+    <desc lang="pt">Acompanhe momentos de fé proporcionados pela Igreja Universal do Reino de Deus.(n)</desc>
+  </programme>
+  <programme start="20241224210000 +0000" stop="20241224220000 +0000" channel="REDE TV">
+    <title lang="pt">Marjo Prêmios</title>
+    <desc lang="pt">MARJO PRÊMIOS é um programa de variedades com games ao vivo com os telespectadores e sorteios de prêmios, além de entrevistas e reportagens nas ruas.(n)</desc>
+  </programme>
+  <programme start="20241222211500 +0000" stop="20241222220000 +0000" channel="SBT">
+    <title lang="pt">Roda a Roda</title>
+    <desc lang="pt">Rebeca Abravanel comanda o Roda a Roda Jequiti, um programa único, que possibilita aos participantes concorrerem a prêmios especiais em barras de ouro.(n)</desc>
+  </programme>
+  <programme start="20241222220000 +0000" stop="20241223030000 +0000" channel="SBT">
+    <title lang="pt">Programa Silvio Santos</title>
+    <desc lang="pt">Silvio Santos comanda o mais divertido programa da televisão, com Jogos dos Pontinhos, Nada Além de Um Minuto, Jogo dos Casais, Câmera Escondida e Gincanas!(n)</desc>
+  </programme>
+  <programme start="20241223030000 +0000" stop="20241223050000 +0000" channel="SBT">
+    <title lang="pt">Brooklyn Nine-Nine: Lei &amp; Desordem</title>
+    <desc lang="pt">Jake Peralta é o despreocupado detetive do 99º distrito do Brooklyn que, junto ao seu grupo eclético de colegas, lidava com um capitão relaxado no escritório. Tudo muda quando o novo capitão Ray Holt chega à dele...(n)</desc>
+  </programme>
+  <programme start="20241223050000 +0000" stop="20241223080000 +0000" channel="SBT">
+    <title lang="pt">SBT News</title>
+    <desc lang="pt">O SBT News é apresentado por Marcelo Martins, e apresenta os principais assuntos de Santa Catarina e também os destaques do Brasil e do Mundo.(n)</desc>
+  </programme>
+  <programme start="20241223080000 +0000" stop="20241223103000 +0000" channel="SBT">
+    <title lang="pt">SBT News</title>
+    <desc lang="pt">O SBT News é apresentado por Marcelo Martins, e apresenta os principais assuntos de Santa Catarina e também os destaques do Brasil e do Mundo.(n)</desc>
+  </programme>
+  <programme start="20241223103000 +0000" stop="20241223140000 +0000" channel="SBT">
+    <title lang="pt">Primeiro Impacto</title>
+    <desc lang="pt">Um formato original da emissora americana Univision, o jornal abordará as principais pautas do Brasil e do mundo.(n)</desc>
+  </programme>
+  <programme start="20241223140000 +0000" stop="20241223154500 +0000" channel="SBT">
+    <title lang="pt">Primeiro Impacto</title>
+    <desc lang="pt">Um formato original da emissora americana Univision, o jornal abordará as principais pautas do Brasil e do mundo.(n)</desc>
+  </programme>
+  <programme start="20241223154500 +0000" stop="20241223163000 +0000" channel="SBT">
+    <title lang="pt">Um Maluco no Pedaço</title>
+    <desc lang="pt">A série conta a história de Will (Will Smith), um jovem de origem humilde que se muda para um luxuoso bairro na Califórnia.(n)</desc>
+  </programme>
+  <programme start="20241223163000 +0000" stop="20241223171500 +0000" channel="SBT">
+    <title lang="pt">Carinha de Anjo</title>
+    <desc lang="pt">Dulce Maria, uma menina de 5 anos que é muito alegre e com bons pensamentos.(n)</desc>
+  </programme>
+  <programme start="20241223171500 +0000" stop="20241223180000 +0000" channel="SBT">
+    <title lang="pt">Quando Me Apaixono</title>
+    <desc lang="pt">Quando Me Apaixono conta a história de Renata e Jerônimo. Um amor sincero e profundo condenado ao sofrimento pelo rancor e a vingança de um ódio implacável provocado por uma terrível mentira.(n)</desc>
+  </programme>
+  <programme start="20241223180000 +0000" stop="20241223183000 +0000" channel="SBT">
+    <title lang="pt">Meu Caminho É Te Amar</title>
+    <desc lang="pt">Guillermo Santos Pérez é um homem de valores que ganha a vida dirigindo seu trator-reboque. Além de ser um homem amoroso com a família, busca formar um lar com Úrsula Hernández.(n)</desc>
+  </programme>
+  <programme start="20241223183000 +0000" stop="20241223194500 +0000" channel="SBT">
+    <title lang="pt">Fofocalizando</title>
+    <desc lang="pt">Em um formato remodelado, o Fofocalizando chega às suas tardes com informação e as principais fofocas do mundo dos famosos.(n)</desc>
+  </programme>
+  <programme start="20241223194500 +0000" stop="20241223224500 +0000" channel="SBT">
+    <title lang="pt">Tá Na Hora</title>
+    <desc lang="pt">Marcão do Povo e Márcia Dantas comandam o \"Tá na Hora\", levando informação e prestação de serviço durante a sua volta para casa.(n)</desc>
+  </programme>
+  <programme start="20241223224500 +0000" stop="20241223234500 +0000" channel="SBT">
+    <title lang="pt">SBT Brasil</title>
+    <desc lang="pt">Os principais fatos do Brasil e do mundo apresentados com independência e isenção.(n)</desc>
+  </programme>
+  <programme start="20241223234500 +0000" stop="20241224000500 +0000" channel="SBT">
+    <title lang="pt">Chaves</title>
+    <desc lang="pt">Chaves é um garoto pobre e órfão que mora numa vila, onde também moram as mais variadas figuras que vivem se metendo em confusão!(n)</desc>
+  </programme>
+  <programme start="20241224000500 +0000" stop="20241224010000 +0000" channel="SBT">
+    <title lang="pt">A Caverna Encantada</title>
+    <desc lang="pt">A trama conta a história de Anna, uma menina de 7 anos, filha do médico e também missionário Paulo. O pai recebe um chamado para uma missão perigosa e, infelizmente, Anna não poderá acompanhá-lo.(n)</desc>
+  </programme>
+  <programme start="20241224010000 +0000" stop="20241224012000 +0000" channel="SBT">
+    <title lang="pt">Chapolin</title>
+    <desc lang="pt">O Chapolin Colorado é um herói atrapalhado, medroso e desastrado, que sempre aparece quando alguém precisa. Com sua marreta biônica e a pílula encolhedora, ele, muitas vezes, provoca mais confusão do que necessariamen...(n)</desc>
+  </programme>
+  <programme start="20241224012000 +0000" stop="20241224021500 +0000" channel="SBT">
+    <title lang="pt">Programa do Ratinho</title>
+    <desc lang="pt">Ratinho preocupado com as questões da população e com um jornalismo dinâmico, traz as principais notícias do dia. Não perca o Exame de DNA, o Jornal Rational e o Desafio do Ratinho com convidados especiais.(n)</desc>
+  </programme>
+  <programme start="20241224021500 +0000" stop="20241224034500 +0000" channel="SBT">
+    <title lang="pt">Retrospectiva 2024</title>
+    <desc lang="pt">Sinopse não disponível.(n)</desc>
+  </programme>
+  <programme start="20241224034500 +0000" stop="20241224044500 +0000" channel="SBT">
+    <title lang="pt">The Noite com Danilo Gentili</title>
+    <desc lang="pt">O programa traz muitos entrevistados interessantes e alto índice de piadas por minuto, abordando os fatos mais e menos relevantes do dia.(n)</desc>
+  </programme>
+  <programme start="20241224044500 +0000" stop="20241224051500 +0000" channel="SBT">
+    <title lang="pt">Operação Mesquita</title>
+    <desc lang="pt">Operação Mesquita se propõe a descobrir o lado B dos famosos. E também de anônimos. O grande diferencial da atração é a ausência de estúdio: todo o programa é feito sobre rodas; os passantes f...(n)</desc>
+  </programme>
+  <programme start="20241224051500 +0000" stop="20241224060000 +0000" channel="SBT">
+    <title lang="pt">SBT Podnight</title>
+    <desc lang="pt">Os podcasts líderes de audiência nas plataformas digitais - Flow, Inteligência Ltda., Vênus, Papagaio Falante e Pod Delas - trazem  uma variedade de temas, desde a cultura pop até questões sociais.(n)</desc>
+  </programme>
+  <programme start="20241224060000 +0000" stop="20241224080000 +0000" channel="SBT">
+    <title lang="pt">SBT News</title>
+    <desc lang="pt">O SBT News é apresentado por Marcelo Martins, e apresenta os principais assuntos de Santa Catarina e também os destaques do Brasil e do Mundo.(n)</desc>
+  </programme>
+  <programme start="20241224080000 +0000" stop="20241224103000 +0000" channel="SBT">
+    <title lang="pt">SBT News</title>
+    <desc lang="pt">O SBT News é apresentado por Marcelo Martins, e apresenta os principais assuntos de Santa Catarina e também os destaques do Brasil e do Mundo.(n)</desc>
+  </programme>
+  <programme start="20241224103000 +0000" stop="20241224140000 +0000" channel="SBT">
+    <title lang="pt">Primeiro Impacto</title>
+    <desc lang="pt">Um formato original da emissora americana Univision, o jornal abordará as principais pautas do Brasil e do mundo.(n)</desc>
+  </programme>
+  <programme start="20241224140000 +0000" stop="20241224154500 +0000" channel="SBT">
+    <title lang="pt">Primeiro Impacto</title>
+    <desc lang="pt">Um formato original da emissora americana Univision, o jornal abordará as principais pautas do Brasil e do mundo.(n)</desc>
+  </programme>
+  <programme start="20241224154500 +0000" stop="20241224163000 +0000" channel="SBT">
+    <title lang="pt">Um Maluco no Pedaço</title>
+    <desc lang="pt">A série conta a história de Will (Will Smith), um jovem de origem humilde que se muda para um luxuoso bairro na Califórnia.(n)</desc>
+  </programme>
+  <programme start="20241224163000 +0000" stop="20241224171500 +0000" channel="SBT">
+    <title lang="pt">Carinha de Anjo</title>
+    <desc lang="pt">Dulce Maria, uma menina de 5 anos que é muito alegre e com bons pensamentos.(n)</desc>
+  </programme>
+  <programme start="20241224171500 +0000" stop="20241224180000 +0000" channel="SBT">
+    <title lang="pt">Quando Me Apaixono</title>
+    <desc lang="pt">Quando Me Apaixono conta a história de Renata e Jerônimo. Um amor sincero e profundo condenado ao sofrimento pelo rancor e a vingança de um ódio implacável provocado por uma terrível mentira.(n)</desc>
+  </programme>
+  <programme start="20241224180000 +0000" stop="20241224183000 +0000" channel="SBT">
+    <title lang="pt">Meu Caminho É Te Amar</title>
+    <desc lang="pt">Guillermo Santos Pérez é um homem de valores que ganha a vida dirigindo seu trator-reboque. Além de ser um homem amoroso com a família, busca formar um lar com Úrsula Hernández.(n)</desc>
+  </programme>
+  <programme start="20241224183000 +0000" stop="20241224194500 +0000" channel="SBT">
+    <title lang="pt">Fofocalizando</title>
+    <desc lang="pt">Em um formato remodelado, o Fofocalizando chega às suas tardes com informação e as principais fofocas do mundo dos famosos.(n)</desc>
+  </programme>
+  <programme start="20241224194500 +0000" stop="20241224224500 +0000" channel="SBT">
+    <title lang="pt">Tá Na Hora</title>
+    <desc lang="pt">Marcão do Povo e Márcia Dantas comandam o \"Tá na Hora\", levando informação e prestação de serviço durante a sua volta para casa.(n)</desc>
+  </programme>
+</tv>
