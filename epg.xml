@@ -1,0 +1,1113 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V5.3.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="GLOBO RJ">
+    <display-name lang="pt">GLOBO RJ</display-name>
+    <icon src="https://s3.glbimg.com/v1/AUTH_b58693ed41d04a39826739159bf600a0/photos/logo-novo-barra.png" />
+    <url>http://www.redeglobo.globo.com</url>
+  </channel>
+  <channel id="FASHION TV">
+    <display-name lang="pt">FASHION TV</display-name>
+    <icon src="https://www.nowonline.com.br/img/channels/fashion_tv.png" />
+    <url>http://www.clarotvmais.com.br</url>
+  </channel>
+  <channel id="FILM &amp; ARTS">
+    <display-name lang="pt">FILM &amp; ARTS</display-name>
+    <icon src="https://www.nowonline.com.br/img/channels/film_arts.png" />
+    <url>http://www.clarotvmais.com.br</url>
+  </channel>
+  <channel id="DOG TV HD">
+    <display-name lang="pt">DOG TV HD</display-name>
+    <icon src="https://www.nowonline.com.br/img/channels/dog_tv.png" />
+    <url>http://www.clarotvmais.com.br</url>
+  </channel>
+  <channel id="BIS HD">
+    <display-name lang="pt">BIS HD</display-name>
+    <icon src="https://www.nowonline.com.br/img/channels/bis.png" />
+    <url>http://www.clarotvmais.com.br</url>
+  </channel>
+  <channel id="LIKE">
+    <display-name lang="pt">LIKE</display-name>
+    <icon src="https://www.nowonline.com.br/img/channels/like.png" />
+    <url>http://www.clarotvmais.com.br</url>
+  </channel>
+  <channel id="PREMIERE5 HD">
+    <display-name lang="pt">PREMIERE5 HD</display-name>
+    <icon src="https://www.nowonline.com.br/img/channels/premiere_5.png" />
+    <url>http://www.clarotvmais.com.br</url>
+  </channel>
+  <channel id="DISCOVERY HOME&amp;HEALTH HD">
+    <display-name lang="pt">DISCOVERY HOME&amp;HEALTH HD</display-name>
+    <icon src="https://www.nowonline.com.br/img/channels/discovery_h_h.png" />
+    <url>http://www.clarotvmais.com.br</url>
+  </channel>
+  <channel id="TRAVEL BOX">
+    <display-name lang="pt">TRAVEL BOX</display-name>
+    <icon src="https://www.nowonline.com.br/img/channels/travel_box.png" />
+    <url>http://www.clarotvmais.com.br</url>
+  </channel>
+  <channel id="TV BRASIL">
+    <display-name lang="pt">TV BRASIL</display-name>
+    <icon src="https://www.nowonline.com.br/img/channels/tv_brasil.png" />
+    <url>http://www.clarotvmais.com.br</url>
+  </channel>
+  <programme start="20241222002000 -0300" stop="20241222015500 -0300" channel="GLOBO RJ">
+    <title lang="pt">Supercine - A Noite Mágica</title>
+    <desc lang="pt">Na véspera de Natal, a casa onde um casal mora com a sua filha pequena é invadida por um ladrão. A menina confunde o invasor com o Papai Noel."},"scheduledDate":"2024-12-22T00:20:00-03:00.(n)</desc>
+  </programme>
+  <programme start="20241222015500 -0300" stop="20241222024000 -0300" channel="GLOBO RJ">
+    <title lang="pt">Volta Por Cima</title>
+    <desc lang="pt">Madá e Jão são retratos dos brasileiros que não deixam a peteca cair, driblando as adversidades da vida com resiliência e coragem de seguir em frente."},"scheduledDate":"2024-12-22T01:55:00-03:00.(n)</desc>
+  </programme>
+  <programme start="20241222024000 -0300" stop="20241222043000 -0300" channel="GLOBO RJ">
+    <title lang="pt">Corujão</title>
+    <desc lang="pt">Mirabelle é uma jovem aspirante a artista que trabalha em uma loja de departamentos de Beverly Hills. Até que ela conhece dois homens que irão mudar sua vida.(n)</desc>
+  </programme>
+  <programme start="20241222043000 -0300" stop="20241222060000 -0300" channel="GLOBO RJ">
+    <title lang="pt">Corujão</title>
+    <desc lang="pt">Um homem descobre ter sido pai de 533 crianças, através da doação de esperma. Ele enfrenta problemas quando algumas destas crianças, já crescidas, o procuram.(n)</desc>
+  </programme>
+  <programme start="20241222060000 -0300" stop="20241222065000 -0300" channel="GLOBO RJ">
+    <title lang="pt">Santa Missa</title>
+    <desc lang="pt">Padre Marcelo Rossi celebra todos os domingos missa para todo o Brasil. Mais antigo programa da Globo."},"scheduledDate":"2024-12-22T06:00:00-03:00.(n)</desc>
+  </programme>
+  <programme start="20241222065000 -0300" stop="20241222072000 -0300" channel="GLOBO RJ">
+    <title lang="pt">Globo Comunidade RJ</title>
+    <desc lang="pt">Revista eletrônica que aborda assuntos comunitários como qualidade de vida, terceira idade etc."},"scheduledDate":"2024-12-22T06:50:00-03:00.(n)</desc>
+  </programme>
+  <programme start="20241222072000 -0300" stop="20241222080500 -0300" channel="GLOBO RJ">
+    <title lang="pt">Pequenas Empresas &amp; Grandes Negócios</title>
+    <desc lang="pt">Novidades e informação para quem quer investir e empreender no Brasil."},"scheduledDate":"2024-12-22T07:20:00-03:00.(n)</desc>
+  </programme>
+  <programme start="20241222080500 -0300" stop="20241222084000 -0300" channel="GLOBO RJ">
+    <title lang="pt">Auto Esporte</title>
+    <desc lang="pt">As principais notícias sobre o universo dos automóveis."},"scheduledDate":"2024-12-22T08:05:00-03:00.(n)</desc>
+  </programme>
+  <programme start="20241222084000 -0300" stop="20241222101500 -0300" channel="GLOBO RJ">
+    <title lang="pt">Globo Rural</title>
+    <desc lang="pt">As principais notícias do agronegócio, os índices do setor, informações sobre a vida no campo, além de reportagens especiais."},"scheduledDate":"2024-12-22T08:40:00-03:00.(n)</desc>
+  </programme>
+  <programme start="20241222101500 -0300" stop="20241222111000 -0300" channel="GLOBO RJ">
+    <title lang="pt">Viver Sertanejo</title>
+    <desc lang="pt">Com “causos”, momentos emocionantes e risadas, Daniel e convidados compartilham histórias de como a música serve de pano de fundo para muitos brasileiros."},"scheduledDate":"2024-12-22T10:15:00-03:00.(n)</desc>
+  </programme>
+  <programme start="20241222111000 -0300" stop="20241222130000 -0300" channel="GLOBO RJ">
+    <title lang="pt">Esporte Espetacular</title>
+    <desc lang="pt">Além de transmitir partidas e campeonatos ao vivo, o programa semanal apresenta os destaques do mundo esportivo, entrevistas e reportagens especiais."},"scheduledDate":"2024-12-22T11:10:00-03:00.(n)</desc>
+  </programme>
+  <programme start="20241222130000 -0300" stop="20241222142500 -0300" channel="GLOBO RJ">
+    <title lang="pt">Magnum P.I.</title>
+    <desc lang="pt">Na 2ª temporada da série, o investigador Thomas Magnum assume novos casos com a ajuda da agente Juliet Higgins e dos veteranos Orville Wright e Theodore Calvin."},"scheduledDate":"2024-12-22T13:00:00-03:00.(n)</desc>
+  </programme>
+  <programme start="20241222142500 -0300" stop="20241222161500 -0300" channel="GLOBO RJ">
+    <title lang="pt">Temperatura Máxima - Malévola: Dona do Mal</title>
+    <desc lang="pt">Malévola e sua afilhada Aurora começam a questionar os complexos laços familiares que as unem enquanto são puxadas em direções diferentes.(n)</desc>
+  </programme>
+  <programme start="20241222161500 -0300" stop="20241222173000 -0300" channel="GLOBO RJ">
+    <title lang="pt">Especial The Masked Singer Brasil</title>
+    <desc lang="pt">Especial The Masked Singer Brasil"},"scheduledDate":"2024-12-22T16:15:00-03:00.(n)</desc>
+  </programme>
+  <programme start="20241222173000 -0300" stop="20241222203000 -0300" channel="GLOBO RJ">
+    <title lang="pt">Domingão Com Huck</title>
+    <desc lang="pt">Entretenimento, diversão, emoção e novas descobertas nos quadros ‘Show dos famosos’ e ‘Quem quer ser um milionário?’ e em matérias especiais pelo país."},"scheduledDate":"2024-12-22T17:30:00-03:00.(n)</desc>
+  </programme>
+  <programme start="20241222203000 -0300" stop="20241222232000 -0300" channel="GLOBO RJ">
+    <title lang="pt">Fantástico</title>
+    <desc lang="pt">Reportagens especiais e as notícias mais importantes da semana, com apresentação de Maju Coutinho e Poliana Abritta. "},"scheduledDate":"2024-12-22T20:30:00-03:00.(n)</desc>
+  </programme>
+  <programme start="20241222232000 -0300" stop="20241222235500 -0300" channel="GLOBO RJ">
+    <title lang="pt">Tô Nessa!</title>
+    <desc lang="pt">Em um lar onde falta dinheiro, mas sobra amor e união, Mirinda e sua família se desdobram com as ideias mais inusitadas para conseguir pagar o boleto da vez. "},"scheduledDate":"2024-12-22T23:20:00-03:00.(n)</desc>
+  </programme>
+  <programme start="20241222235500 -0300" stop="20241223020000 -0300" channel="GLOBO RJ">
+    <title lang="pt">Domingo Maior - Rota de Fuga 3</title>
+    <desc lang="pt">Quando Ray Breslin é contratado para recuperar a filha sequestrada de um gênio da tecnologia em Hong Kong, sua namorada também é capturada pelo mesmo criminoso."},"scheduledDate":"2024-12-22T23:55:00-03:00.(n)</desc>
+  </programme>
+  <programme start="20241222233000 +0000" stop="20241223000000 +0000" channel="FASHION TV">
+    <title lang="pt">Estilo Próprio</title>
+    <desc lang="pt">A Bete, de 58 anos, gosta de um estilo mais exótico e despojado, mas não sabe por onde começar. Ela não sabe se maquiar e quer aprender a deixar as sobrancelhas mais harmônicas.(n)</desc>
+  </programme>
+  <programme start="20241223000000 +0000" stop="20241223003000 +0000" channel="FASHION TV">
+    <title lang="pt">Lumberjills</title>
+    <desc lang="pt">Com peças fofas e a possibilidade de envolver as crianças na produção, as LumberJills ensinam a fazer um brinquedo de encaixe e um balanço. A família toda vai adorar!(n)</desc>
+  </programme>
+  <programme start="20241223003000 +0000" stop="20241223010000 +0000" channel="FASHION TV">
+    <title lang="pt">Erick's Groomers Race</title>
+    <desc lang="pt">Após muitos desafios e demonstrações incríveis de talento, nossos finalistas se destacaram e estão prontos para a grande decisão. Eva Amaral, Fran Brandão, Lucia Aranha e Alex Amorin competiram com paixão e ...(n)</desc>
+  </programme>
+  <programme start="20241223010000 +0000" stop="20241223013000 +0000" channel="FASHION TV">
+    <title lang="pt">Powercast</title>
+    <desc lang="pt">A nossa convidada de hoje é o primeiro nome que nos vem à mente quando falamos sobre rede sociais alinhado a saúde e bem-estar. Ela é influenciadora e fundadora da Gaab Wellness. Bem vinda ao power Gabriela Morais.(n)</desc>
+  </programme>
+  <programme start="20241223013000 +0000" stop="20241223014500 +0000" channel="FASHION TV">
+    <title lang="pt">Crônicas da Moda</title>
+    <desc lang="pt">Paco Rabanne, definitivamente, não foi qualquer revolucionário na moda. Nessa categoria, ele tem um lugar especial, afinal sua inovação estava não apenas nas roupas, mas na forma de fazê-las e na matéria-prima us...(n)</desc>
+  </programme>
+  <programme start="20241223014500 +0000" stop="20241223020000 +0000" channel="FASHION TV">
+    <title lang="pt">Made In</title>
+    <desc lang="pt">Vamos conhecer o headquarter do Bischoff Group junto à Natália Bischoff, diretora de operações e branding do grupo.(n)</desc>
+  </programme>
+  <programme start="20241223020000 +0000" stop="20241223023000 +0000" channel="FASHION TV">
+    <title lang="pt">Mulheres Mix</title>
+    <desc lang="pt">Carla e Cláudia convidam mulheres com idades, profissões e experiências diferentes para debater temas atuais e de interesse das mulheres.(n)</desc>
+  </programme>
+  <programme start="20241223023000 +0000" stop="20241223030000 +0000" channel="FASHION TV">
+    <title lang="pt">Fashion Week</title>
+    <desc lang="pt">Estados Unidos  Los Angeles  LAFW Outono - Inverno 2022/2023  Jonathan Guzman  Carmen Steffens  Charles &amp; Ron.(n)</desc>
+  </programme>
+  <programme start="20241223030000 +0000" stop="20241223031500 +0000" channel="FASHION TV">
+    <title lang="pt">Backstage</title>
+    <desc lang="pt">Veja toda movimentação para o desfile. Entrevista com os estilistas, maquiadores, cabeleireiros e top models.(n)</desc>
+  </programme>
+  <programme start="20241223031500 +0000" stop="20241223033000 +0000" channel="FASHION TV">
+    <title lang="pt">Backstage</title>
+    <desc lang="pt">Veja toda movimentação para o desfile. Entrevista com os estilistas, maquiadores, cabeleireiros e top models.(n)</desc>
+  </programme>
+  <programme start="20241223033000 +0000" stop="20241223034500 +0000" channel="FASHION TV">
+    <title lang="pt">Backstage</title>
+    <desc lang="pt">Veja toda movimentação para o desfile. Entrevista com os estilistas, maquiadores, cabeleireiros e top models. Desfiles: Agua Clara, Monday Swimwear e Alberta Ferreti.(n)</desc>
+  </programme>
+  <programme start="20241223034500 +0000" stop="20241223040000 +0000" channel="FASHION TV">
+    <title lang="pt">Backstage</title>
+    <desc lang="pt">Veja toda movimentação para o desfile. Entrevista com os estilistas, maquiadores, cabeleireiros e top models. Desfiles: Andrew Gn.(n)</desc>
+  </programme>
+  <programme start="20241223040000 +0000" stop="20241223043000 +0000" channel="FASHION TV">
+    <title lang="pt">Cannes</title>
+    <desc lang="pt">Principais momentos do tapete vermelho do Festival de Cannes.(n)</desc>
+  </programme>
+  <programme start="20241223043000 +0000" stop="20241223050000 +0000" channel="FASHION TV">
+    <title lang="pt">Estilo Próprio Na Prática</title>
+    <desc lang="pt">Está na hora de colocar as dicas do Estilo Próprio em prática! Assista o Estilo Próprio na Prática e aprenda muitas dicas fáceis de moda e maquiagem para encontrar a sua melhor versão.(n)</desc>
+  </programme>
+  <programme start="20241223050000 +0000" stop="20241223051500 +0000" channel="FASHION TV">
+    <title lang="pt">Designers at Work</title>
+    <desc lang="pt">As inspirações na hora da criação. Confira entrevistas exclusivas com os mais renomados designers.(n)</desc>
+  </programme>
+  <programme start="20241223051500 +0000" stop="20241223053000 +0000" channel="FASHION TV">
+    <title lang="pt">Designers at Work</title>
+    <desc lang="pt">As inspirações na hora da criação. Confira entrevistas exclusivas com os mais renomados designers.(n)</desc>
+  </programme>
+  <programme start="20241223053000 +0000" stop="20241223054500 +0000" channel="FASHION TV">
+    <title lang="pt">Designers at Work</title>
+    <desc lang="pt">As inspirações na hora da criação. Confira entrevistas exclusivas com os mais renomados designers.(n)</desc>
+  </programme>
+  <programme start="20241223054500 +0000" stop="20241223060000 +0000" channel="FASHION TV">
+    <title lang="pt">Designers at Work</title>
+    <desc lang="pt">As inspirações na hora da criação. Confira entrevistas exclusivas com os mais renomados designers.(n)</desc>
+  </programme>
+  <programme start="20241223060000 +0000" stop="20241223063000 +0000" channel="FASHION TV">
+    <title lang="pt">BB Play News</title>
+    <desc lang="pt">O que há de mais relevante no universo da moda brasileira.(n)</desc>
+  </programme>
+  <programme start="20241223063000 +0000" stop="20241223070000 +0000" channel="FASHION TV">
+    <title lang="pt">You Fashion</title>
+    <desc lang="pt">Maratona com os melhores episódios e dicas da temporada atual.(n)</desc>
+  </programme>
+  <programme start="20241223070000 +0000" stop="20241223071500 +0000" channel="FASHION TV">
+    <title lang="pt">Top Models</title>
+    <desc lang="pt">Entrevistas com as modelos mais requisitadas do universo fashion. A carreira de top models, a profissionalização e outras curiosidades.(n)</desc>
+  </programme>
+  <programme start="20241223071500 +0000" stop="20241223073000 +0000" channel="FASHION TV">
+    <title lang="pt">Top Models</title>
+    <desc lang="pt">Entrevistas com as modelos mais requisitadas do universo fashion. A carreira de top models, a profissionalização e outras curiosidades.(n)</desc>
+  </programme>
+  <programme start="20241223073000 +0000" stop="20241223074500 +0000" channel="FASHION TV">
+    <title lang="pt">Top Models</title>
+    <desc lang="pt">Entrevistas com as modelos mais requisitadas do universo fashion. A carreira de top models, a profissionalização e outras curiosidades.(n)</desc>
+  </programme>
+  <programme start="20241223074500 +0000" stop="20241223080000 +0000" channel="FASHION TV">
+    <title lang="pt">Top Models</title>
+    <desc lang="pt">Entrevistas com as modelos mais requisitadas do universo fashion. A carreira de top models, a profissionalização e outras curiosidades.(n)</desc>
+  </programme>
+  <programme start="20241223080000 +0000" stop="20241223083000 +0000" channel="FASHION TV">
+    <title lang="pt">BB Play News</title>
+    <desc lang="pt">O que há de mais relevante no universo da moda brasileira.(n)</desc>
+  </programme>
+  <programme start="20241223083000 +0000" stop="20241223090000 +0000" channel="FASHION TV">
+    <title lang="pt">Fashion Tv News</title>
+    <desc lang="pt">Programa de entrevista com as principais personalidades da moda.(n)</desc>
+  </programme>
+  <programme start="20241223090000 +0000" stop="20241223091500 +0000" channel="FASHION TV">
+    <title lang="pt">Análise Fashion</title>
+    <desc lang="pt">Dos bastidores à primeira fila, confira a opinião dos experts do mundo fashionista.(n)</desc>
+  </programme>
+  <programme start="20241223091500 +0000" stop="20241223093000 +0000" channel="FASHION TV">
+    <title lang="pt">Análise Fashion</title>
+    <desc lang="pt">Dos bastidores à primeira fila, confira a opinião dos experts do mundo fashionista.(n)</desc>
+  </programme>
+  <programme start="20241223093000 +0000" stop="20241223094500 +0000" channel="FASHION TV">
+    <title lang="pt">Análise Fashion</title>
+    <desc lang="pt">Dos bastidores à primeira fila, confira a opinião dos experts do mundo fashionista.(n)</desc>
+  </programme>
+  <programme start="20241223094500 +0000" stop="20241223100000 +0000" channel="FASHION TV">
+    <title lang="pt">Análise Fashion</title>
+    <desc lang="pt">Dos bastidores à primeira fila, confira a opinião dos experts do mundo fashionista.(n)</desc>
+  </programme>
+  <programme start="20241223100000 +0000" stop="20241223103000 +0000" channel="FASHION TV">
+    <title lang="pt">Customize!</title>
+    <desc lang="pt">Maria Eugênia cria sapatos de forma autoral, usando uma antiga técnica de amarração. Com consultoria de Bruna Abreu, figurinista e Eliana Rubel, engenheira química, que traz a questão do uso de borrachas descartadas.(n)</desc>
+  </programme>
+  <programme start="20241223103000 +0000" stop="20241223110000 +0000" channel="FASHION TV">
+    <title lang="pt">Caravana Internacional da Moda</title>
+    <desc lang="pt">A equipe muda sua locação para Cabo Frio e continua com as fotos de beachwear. Entrevista com a marca e também com membros da equipe.(n)</desc>
+  </programme>
+  <programme start="20241223110000 +0000" stop="20241223113000 +0000" channel="FASHION TV">
+    <title lang="pt">Design Vision</title>
+    <desc lang="pt">Neste primeiro episódio, vamos conhecer as histórias, sonhos e paixões dos dez estudantes de moda selecionados para essa disputa incrível.(n)</desc>
+  </programme>
+  <programme start="20241223113000 +0000" stop="20241223120000 +0000" channel="FASHION TV">
+    <title lang="pt">Estilo Próprio</title>
+    <desc lang="pt">A Bete, de 58 anos, gosta de um estilo mais exótico e despojado, mas não sabe por onde começar. Ela não sabe se maquiar e quer aprender a deixar as sobrancelhas mais harmônicas.(n)</desc>
+  </programme>
+  <programme start="20241223120000 +0000" stop="20241223123000 +0000" channel="FASHION TV">
+    <title lang="pt">Lumberjills</title>
+    <desc lang="pt">Com peças fofas e a possibilidade de envolver as crianças na produção, as LumberJills ensinam a fazer um brinquedo de encaixe e um balanço. A família toda vai adorar!(n)</desc>
+  </programme>
+  <programme start="20241223123000 +0000" stop="20241223130000 +0000" channel="FASHION TV">
+    <title lang="pt">Erick's Groomers Race</title>
+    <desc lang="pt">Após muitos desafios e demonstrações incríveis de talento, nossos finalistas se destacaram e estão prontos para a grande decisão. Eva Amaral, Fran Brandão, Lucia Aranha e Alex Amorin competiram com paixão e ...(n)</desc>
+  </programme>
+  <programme start="20241223130000 +0000" stop="20241223133000 +0000" channel="FASHION TV">
+    <title lang="pt">Powercast</title>
+    <desc lang="pt">A nossa convidada de hoje é o primeiro nome que nos vem à mente quando falamos sobre rede sociais alinhado a saúde e bem-estar. Ela é influenciadora e fundadora da Gaab Wellness. Bem vinda ao power Gabriela Morais.(n)</desc>
+  </programme>
+  <programme start="20241223133000 +0000" stop="20241223134500 +0000" channel="FASHION TV">
+    <title lang="pt">Crônicas da Moda</title>
+    <desc lang="pt">Paco Rabanne, definitivamente, não foi qualquer revolucionário na moda. Nessa categoria, ele tem um lugar especial, afinal sua inovação estava não apenas nas roupas, mas na forma de fazê-las e na matéria-prima us...(n)</desc>
+  </programme>
+  <programme start="20241223134500 +0000" stop="20241223140000 +0000" channel="FASHION TV">
+    <title lang="pt">Made In</title>
+    <desc lang="pt">Vamos conhecer o headquarter do Bischoff Group junto à Natália Bischoff, diretora de operações e branding do grupo.(n)</desc>
+  </programme>
+  <programme start="20241223140000 +0000" stop="20241223143000 +0000" channel="FASHION TV">
+    <title lang="pt">Mulheres Mix</title>
+    <desc lang="pt">Carla e Cláudia convidam mulheres com idades, profissões e experiências diferentes para debater temas atuais e de interesse das mulheres.(n)</desc>
+  </programme>
+  <programme start="20241223143000 +0000" stop="20241223150000 +0000" channel="FASHION TV">
+    <title lang="pt">Fashion Week</title>
+    <desc lang="pt">Estados Unidos  Los Angeles  LAFW Outono - Inverno 2022/2023  Jonathan Guzman  Carmen Steffens  Charles &amp; Ron.(n)</desc>
+  </programme>
+  <programme start="20241223150000 +0000" stop="20241223160000 +0000" channel="FASHION TV">
+    <title lang="pt">Fashion Week Especial Festa</title>
+    <desc lang="pt">Tá faltando inspiração para a noite? O Fashion TV juntou as últimas tendências das passarelas em Make, Cabelo e Look, para ajudar você a usar e abusar do brilho, da ousadia e da criatividade.(n)</desc>
+  </programme>
+  <programme start="20241223160000 +0000" stop="20241223161500 +0000" channel="FASHION TV">
+    <title lang="pt">Top Models</title>
+    <desc lang="pt">Entrevistas com as modelos mais requisitadas do universo fashion. A carreira de top models, a profissionalização e outras curiosidades.(n)</desc>
+  </programme>
+  <programme start="20241223161500 +0000" stop="20241223164500 +0000" channel="FASHION TV">
+    <title lang="pt">Caravana Internacional da Moda</title>
+    <desc lang="pt">Nesse episódio nossa equipe se despede da Bahia e segue para o Maranhão. Um hotel encantador é cenário das fotos de lingerie em São Luís do Maranhão.(n)</desc>
+  </programme>
+  <programme start="20241223164500 +0000" stop="20241223170000 +0000" channel="FASHION TV">
+    <title lang="pt">Estúdio FTV</title>
+    <desc lang="pt">A produção e o movimento de cada look nos principais fashion films mundiais.(n)</desc>
+  </programme>
+  <programme start="20241223170000 +0000" stop="20241223173000 +0000" channel="FASHION TV">
+    <title lang="pt">Dona</title>
+    <desc lang="pt">Um programa para a mulher que busca autoconhecimento, para a mulher que busca muito mais do que um final feliz. Para compor as discussões sobre saúde mental da mulher.(n)</desc>
+  </programme>
+  <programme start="20241223173000 +0000" stop="20241223180000 +0000" channel="FASHION TV">
+    <title lang="pt">Estilo Próprio</title>
+    <desc lang="pt">O estilo sexy foi reinventado: recortes estratégicos e inusitados, transparências, alfaiataria desconstruída - tudo isso de forma despretensiosa e sofisticada ao mesmo tempo.(n)</desc>
+  </programme>
+  <programme start="20241223180000 +0000" stop="20241223220000 +0000" channel="FASHION TV">
+    <title lang="pt">Jóias VIp</title>
+    <desc lang="pt">Infomercial.(n)</desc>
+  </programme>
+  <programme start="20241223220000 +0000" stop="20241223223000 +0000" channel="FASHION TV">
+    <title lang="pt">Lumberjills</title>
+    <desc lang="pt">Com peças fofas e a possibilidade de envolver as crianças na produção, as LumberJills ensinam a fazer um brinquedo de encaixe e um balanço. A família toda vai adorar!(n)</desc>
+  </programme>
+  <programme start="20241223223000 +0000" stop="20241223224500 +0000" channel="FASHION TV">
+    <title lang="pt">+FIT</title>
+    <desc lang="pt">O +FIT reúne dicas de alimentação, exercícios e bem estar para melhorar sua qualidade de vida. Tudo isso guiado pela personal trainer Carol Borba.(n)</desc>
+  </programme>
+  <programme start="20241223224500 +0000" stop="20241223230000 +0000" channel="FASHION TV">
+    <title lang="pt">+FIT</title>
+    <desc lang="pt">O +FIT reúne dicas de alimentação, exercícios e bem estar para melhorar sua qualidade de vida. Tudo isso guiado pela personal trainer Carol Borba.(n)</desc>
+  </programme>
+  <programme start="20241223230000 +0000" stop="20241223233000 +0000" channel="FASHION TV">
+    <title lang="pt">Design Vision</title>
+    <desc lang="pt">Um novo desafio promete esquentar a competição e os candidatos precisam buscar em suas ancestralidades a força necessária para alcançar o topo do ranking geral.(n)</desc>
+  </programme>
+  <programme start="20241223233000 +0000" stop="20241224000000 +0000" channel="FASHION TV">
+    <title lang="pt">A Mulher e o Mercado de Trabalho</title>
+    <desc lang="pt">É a mulher que, muitas vezes, precisa escolher entre desenvolver sua carreira e cuidar da família como se ambos fossem excludentes para então lidar com a culpa dessa \"escolha\".(n)</desc>
+  </programme>
+  <programme start="20241222230000 +0000" stop="20241223000000 +0000" channel="FILM &amp; ARTS">
+    <title lang="pt">Miss Scarlett &amp; The Duke</title>
+    <desc lang="pt">Eliza está prestes a ganhar um dinheiro que mudará sua vida quando encontra o herdeiro de uma fortuna não reclamada.(n)</desc>
+  </programme>
+  <programme start="20241223000000 +0000" stop="20241223010000 +0000" channel="FILM &amp; ARTS">
+    <title lang="pt">Miss Scarlett &amp; The Duke</title>
+    <desc lang="pt">A temporada chega a um clímax explosivo quando Eliza recebe uma bomba no correio matinal. Quem enviou e por quê? Eliza se une a Duke, Moses e seu antigo inimigo Patricks Nash para descobrir quem está por trás da entrega mortal.(n)</desc>
+  </programme>
+  <programme start="20241223010000 +0000" stop="20241223031000 +0000" channel="FILM &amp; ARTS">
+    <title lang="pt">Judy</title>
+    <desc lang="pt">Durante o inverno de 1968, trinta anos após a estreia de 'O Mágico de Oz', a lendária Judy Garland chega a Londres para dar uma série de concertos.(n)</desc>
+  </programme>
+  <programme start="20241223031000 +0000" stop="20241223051000 +0000" channel="FILM &amp; ARTS">
+    <title lang="pt">Um Sonho sem Limites</title>
+    <desc lang="pt">O sonho americano do sucesso a qualquer custo, na estória de Suzanne Stone, bonita e limitada garota do interior, que tenta a sorte como repórter de TV, tornando-se capaz até de matar, para chegar ao estrelato.(n)</desc>
+  </programme>
+  <programme start="20241223051000 +0000" stop="20241223054000 +0000" channel="FILM &amp; ARTS">
+    <title lang="pt">História Secreta dos Manuscritos</title>
+    <desc lang="pt">Victor Hugo passou 16 anos escrevendo \"Os Miseráveis\", entre Paris, Guernsey e Waterloo. Foi um longo processo criativo e não só porque o manuscrito contém 828 páginas.(n)</desc>
+  </programme>
+  <programme start="20241223054000 +0000" stop="20241223072500 +0000" channel="FILM &amp; ARTS">
+    <title lang="pt">Ipo: Juan Perez Floristan &amp; Lahav Shani Em Tel Aviv</title>
+    <desc lang="pt">O carismático Lahav Shani e a Filarmônica de Israel dão as boas-vindas ao pianista espanhol Juan Pérez Floristán, vencedor do Concurso Internacional de Piano Arthur Rubinstein de 2021.(n)</desc>
+  </programme>
+  <programme start="20241223072500 +0000" stop="20241223090000 +0000" channel="FILM &amp; ARTS">
+    <title lang="pt">The Maths Of Love</title>
+    <desc lang="pt">Leonard e Judith têm pouco em comum. Mais precisamente: quase nada. Ele é um professor de matemática que adora a solidão e evita outras pessoas.(n)</desc>
+  </programme>
+  <programme start="20241223090000 +0000" stop="20241223093000 +0000" channel="FILM &amp; ARTS">
+    <title lang="pt">Maravilhas do Mediterrâneo</title>
+    <desc lang="pt">A Capela Palatina no Palácio dos Normandos foi construída em 1130 - cerca de trinta anos antes da Catedral de Notre-Dame em Paris. O rei normando Rogério II da Sicília mandou construí-lo para expressar sua fé crist...(n)</desc>
+  </programme>
+  <programme start="20241223093000 +0000" stop="20241223103000 +0000" channel="FILM &amp; ARTS">
+    <title lang="pt">The Graham Norton Show</title>
+    <desc lang="pt">O comediante Graham Northon apresenta este programa com foco nas pessoas, tendências, histórias e aspectos da cultura das celebridades e no que mais lhe interessa, incluindo seu estilo único de comédia stand-up.(n)</desc>
+  </programme>
+  <programme start="20241223103000 +0000" stop="20241223123200 +0000" channel="FILM &amp; ARTS">
+    <title lang="pt">Um Sonho sem Limites</title>
+    <desc lang="pt">O sonho americano do sucesso a qualquer custo, na estória de Suzanne Stone, bonita e limitada garota do interior, que tenta a sorte como repórter de TV, tornando-se capaz até de matar, para chegar ao estrelato.(n)</desc>
+  </programme>
+  <programme start="20241223123200 +0000" stop="20241223134000 +0000" channel="FILM &amp; ARTS">
+    <title lang="pt">Mary Beard, O Nu Na Arte</title>
+    <desc lang="pt">Com humor e talento distintos, Mary Beard tem uma visão pessoal do nu na arte ocidental e do seu poder perturbador de provocar ideias sobre género, sexo e transgressão moral.(n)</desc>
+  </programme>
+  <programme start="20241223134000 +0000" stop="20241223141000 +0000" channel="FILM &amp; ARTS">
+    <title lang="pt">Maravilhas do Mediterrâneo</title>
+    <desc lang="pt">A Capela Palatina no Palácio dos Normandos foi construída em 1130 - cerca de trinta anos antes da Catedral de Notre-Dame em Paris. O rei normando Rogério II da Sicília mandou construí-lo para expressar sua fé crist...(n)</desc>
+  </programme>
+  <programme start="20241223141000 +0000" stop="20241223155500 +0000" channel="FILM &amp; ARTS">
+    <title lang="pt">Ipo: Juan Perez Floristan &amp; Lahav Shani Em Tel Aviv</title>
+    <desc lang="pt">O carismático Lahav Shani e a Filarmônica de Israel dão as boas-vindas ao pianista espanhol Juan Pérez Floristán, vencedor do Concurso Internacional de Piano Arthur Rubinstein de 2021.(n)</desc>
+  </programme>
+  <programme start="20241223155500 +0000" stop="20241223165200 +0000" channel="FILM &amp; ARTS">
+    <title lang="pt">Miss Scarlett &amp; The Duke</title>
+    <desc lang="pt">Eliza está prestes a ganhar um dinheiro que mudará sua vida quando encontra o herdeiro de uma fortuna não reclamada.(n)</desc>
+  </programme>
+  <programme start="20241223165200 +0000" stop="20241223174500 +0000" channel="FILM &amp; ARTS">
+    <title lang="pt">Miss Scarlett &amp; The Duke</title>
+    <desc lang="pt">A temporada chega a um clímax explosivo quando Eliza recebe uma bomba no correio matinal. Quem enviou e por quê? Eliza se une a Duke, Moses e seu antigo inimigo Patricks Nash para descobrir quem está por trás da entrega mortal.(n)</desc>
+  </programme>
+  <programme start="20241223174500 +0000" stop="20241223200000 +0000" channel="FILM &amp; ARTS">
+    <title lang="pt">Judy</title>
+    <desc lang="pt">Durante o inverno de 1968, trinta anos após a estreia de 'O Mágico de Oz', a lendária Judy Garland chega a Londres para dar uma série de concertos.(n)</desc>
+  </programme>
+  <programme start="20241223200000 +0000" stop="20241223210000 +0000" channel="FILM &amp; ARTS">
+    <title lang="pt">The Graham Norton Show</title>
+    <desc lang="pt">O comediante Graham Northon apresenta este programa com foco nas pessoas, tendências, histórias e aspectos da cultura das celebridades e no que mais lhe interessa, incluindo seu estilo único de comédia stand-up.(n)</desc>
+  </programme>
+  <programme start="20241223210000 +0000" stop="20241223224000 +0000" channel="FILM &amp; ARTS">
+    <title lang="pt">Até o Fim</title>
+    <desc lang="pt">O ex-soldado de Operações Especiais está desesperado para encontrar sua filha desaparecida. Enquanto Jake descobre a terrível verdade em torno do desaparecimento dela, ele parte em uma busca impiedosa por vingança.(n)</desc>
+  </programme>
+  <programme start="20241223224000 +0000" stop="20241223230000 +0000" channel="FILM &amp; ARTS">
+    <title lang="pt">Nossa Bossa</title>
+    <desc lang="pt">No final dos anos 50, uma mistura de Jazz Bebop e Samba Brasileiro arrebatou o mundo da música.(n)</desc>
+  </programme>
+  <programme start="20241223230000 +0000" stop="20241224000000 +0000" channel="FILM &amp; ARTS">
+    <title lang="pt">Os Desenhos de Yves Saint Laurent</title>
+    <desc lang="pt">Testemunhos instantâneos da história da moda e da carreira de um criador excepcional, esses desenhos são o legado pouco conhecido de Yves Saint Laurent e constituem a matéria-prima deste filme.(n)</desc>
+  </programme>
+  <programme start="20241222210000 +0000" stop="20241223030000 +0000" channel="DOG TV HD">
+    <title lang="pt">Programação Dog TV</title>
+    <desc lang="pt">Com 24h de programação desenvolvida cientificamente para atender a visão e audição dos cãezinhos, o DOGTV é a companhia perfeita para entreter seu melhor amigo. Assine já por R$19,90.(n)</desc>
+  </programme>
+  <programme start="20241223030000 +0000" stop="20241223090000 +0000" channel="DOG TV HD">
+    <title lang="pt">Programação Dog TV</title>
+    <desc lang="pt">Com 24h de programação desenvolvida cientificamente para atender a visão e audição dos cãezinhos, o DOGTV é a companhia perfeita para entreter seu melhor amigo. Assine já por R$19,90.(n)</desc>
+  </programme>
+  <programme start="20241223090000 +0000" stop="20241223150000 +0000" channel="DOG TV HD">
+    <title lang="pt">Programação Dog TV</title>
+    <desc lang="pt">Com 24h de programação desenvolvida cientificamente para atender a visão e audição dos cãezinhos, o DOGTV é a companhia perfeita para entreter seu melhor amigo. Assine já por R$19,90.(n)</desc>
+  </programme>
+  <programme start="20241223150000 +0000" stop="20241223210000 +0000" channel="DOG TV HD">
+    <title lang="pt">Programação Dog TV</title>
+    <desc lang="pt">Com 24h de programação desenvolvida cientificamente para atender a visão e audição dos cãezinhos, o DOGTV é a companhia perfeita para entreter seu melhor amigo. Assine já por R$19,90.(n)</desc>
+  </programme>
+  <programme start="20241223210000 +0000" stop="20241224030000 +0000" channel="DOG TV HD">
+    <title lang="pt">Programação Dog TV</title>
+    <desc lang="pt">Com 24h de programação desenvolvida cientificamente para atender a visão e audição dos cãezinhos, o DOGTV é a companhia perfeita para entreter seu melhor amigo. Assine já por R$19,90.(n)</desc>
+  </programme>
+  <programme start="20241222233000 +0000" stop="20241223000000 +0000" channel="BIS HD">
+    <title lang="pt">Canto Ao Tempo</title>
+    <desc lang="pt">O primeiro episódio do Canto ao Tempo faz uma homenagem à Margareth Menezes, um das pioneiras a usar sua voz para representar a mulher, a cultura e o povo negro.(n)</desc>
+  </programme>
+  <programme start="20241223000000 +0000" stop="20241223003000 +0000" channel="BIS HD">
+    <title lang="pt">Video Killed The Radio Star.</title>
+    <desc lang="pt">Video Killed The Radio Star explora os impactos dos videoclipes de alguns dos artistas mais icônicos da indústria musical. Neste episódio: Snow Patrol.(n)</desc>
+  </programme>
+  <programme start="20241223003000 +0000" stop="20241223013200 +0000" channel="BIS HD">
+    <title lang="pt">Rolling Stones: My Life As A Rolling Stone - Rolling Stones: My Life As A …</title>
+    <desc lang="pt">O guitarrista dos Rolling Stones, Ronnie Wood relembra os altos emocionantes e alguns baixos perigosos na sua brilhante carreira enquanto ícone do rock and roll britânico.(n)</desc>
+  </programme>
+  <programme start="20241223013200 +0000" stop="20241223023000 +0000" channel="BIS HD">
+    <title lang="pt">Experimente.</title>
+    <desc lang="pt">Série que está em sua 8ª temporada, apresenta bandas que começam a despontar no cenário musical brasileiro. No episódio de hoje, recebemos o projeto Posada e o Clã que mostra seu primeiro álbum.(n)</desc>
+  </programme>
+  <programme start="20241223023000 +0000" stop="20241223033100 +0000" channel="BIS HD">
+    <title lang="pt">Experimente.</title>
+    <desc lang="pt">Série que está em sua 9ª temporada, apresenta bandas que começam a despontar no cenário musical brasileiro.(n)</desc>
+  </programme>
+  <programme start="20241223033100 +0000" stop="20241223043100 +0000" channel="BIS HD">
+    <title lang="pt">Disco: Soundtrack Of A Revolution</title>
+    <desc lang="pt">Uma febre musical global nasce nos lofts e bares subterrâneos da Nova York dos anos 1970.(n)</desc>
+  </programme>
+  <programme start="20241223043100 +0000" stop="20241223053000 +0000" channel="BIS HD">
+    <title lang="pt">Disco: Soundtrack Of A Revolution</title>
+    <desc lang="pt">À medida que a discoteca conquista o mainstream, ela transforma mulheres negras e homens gays em ícones.(n)</desc>
+  </programme>
+  <programme start="20241223053000 +0000" stop="20241223060000 +0000" channel="BIS HD">
+    <title lang="pt">Música Sertaneja Do Brasil</title>
+    <desc lang="pt">Novos nomes do sertanejo cantam clássicos com músicos famosos. Nesse episódio, há duas participações especiais.(n)</desc>
+  </programme>
+  <programme start="20241223060000 +0000" stop="20241223063000 +0000" channel="BIS HD">
+    <title lang="pt">Depois Daquele Álbum</title>
+    <desc lang="pt">A cada episódio um artista convidado toca seu álbum preferido de algum outro músico. Nesse episódio, Vitor Kley toca \"Time Flies... 1994-2009\" do Oasis.(n)</desc>
+  </programme>
+  <programme start="20241223063000 +0000" stop="20241223081200 +0000" channel="BIS HD">
+    <title lang="pt">ABBA: Against the Odds</title>
+    <desc lang="pt">Esta é história interna da luta da banda contra reação crítica, término de relacionamento e mudança social para tornar-se maior grupo pop dos anos 1970.(n)</desc>
+  </programme>
+  <programme start="20241223081200 +0000" stop="20241223085800 +0000" channel="BIS HD">
+    <title lang="pt">K-Hip Hop</title>
+    <desc lang="pt">O Rap é instrumento de rebelião e emancipação para a juventude coreana. Seguindo os passos do K-Pop, o K-Hip Hop ganhou fama navegando entre raízes autênticas e tendências atuais.(n)</desc>
+  </programme>
+  <programme start="20241223085800 +0000" stop="20241223100000 +0000" channel="BIS HD">
+    <title lang="pt">Fight The Power</title>
+    <desc lang="pt">De artistas de sucesso a mudanças na história, acompanhe a evolução global do hip hop.(n)</desc>
+  </programme>
+  <programme start="20241223100000 +0000" stop="20241223110400 +0000" channel="BIS HD">
+    <title lang="pt">Rolling Stones: My Life As A Rolling Stone - Rolling Stones: My Life As A …</title>
+    <desc lang="pt">Keith Richards é o guitarrista dos Rolling Stones, um desafiador hedonista e grande herói do Rock. No episódio, ele e músicos estelares falam sobre sua carreira multifacetada.(n)</desc>
+  </programme>
+  <programme start="20241223110400 +0000" stop="20241223113000 +0000" channel="BIS HD">
+    <title lang="pt">Rock Legends</title>
+    <desc lang="pt">Série sobre os grandes nomes do rock internacional.(n)</desc>
+  </programme>
+  <programme start="20241223113000 +0000" stop="20241223120000 +0000" channel="BIS HD">
+    <title lang="pt">Video Killed The Radio Star.</title>
+    <desc lang="pt">Video Killed The Radio Star explora os impactos dos videoclipes de alguns dos artistas mais icônicos da indústria musical. Neste episódio: Snow Patrol.(n)</desc>
+  </programme>
+  <programme start="20241223120000 +0000" stop="20241223123000 +0000" channel="BIS HD">
+    <title lang="pt">Canto Ao Tempo</title>
+    <desc lang="pt">O primeiro episódio do Canto ao Tempo faz uma homenagem à Margareth Menezes, um das pioneiras a usar sua voz para representar a mulher, a cultura e o povo negro.(n)</desc>
+  </programme>
+  <programme start="20241223123000 +0000" stop="20241223130000 +0000" channel="BIS HD">
+    <title lang="pt">Setlist</title>
+    <desc lang="pt">DELACRUZ PART. IZA - AFRODITE (ALTAFONTE).(n)</desc>
+  </programme>
+  <programme start="20241223130000 +0000" stop="20241223140000 +0000" channel="BIS HD">
+    <title lang="pt">Glastonbury</title>
+    <desc lang="pt">Os melhores momentos do festival de música mais comentado do mundo com os shows de: Dua Lipa, Camila Cabello, Kenya Grace, Seventeen, Avril Lavigne, entre outros.(n)</desc>
+  </programme>
+  <programme start="20241223140000 +0000" stop="20241223150000 +0000" channel="BIS HD">
+    <title lang="pt">Glastonbury</title>
+    <desc lang="pt">Superestrelas da música ocupam espaço no festival de música mais comentado do mundo e a cobertura da BBC garante que todos os melhores momentos sejam capturados para quem perdeu.(n)</desc>
+  </programme>
+  <programme start="20241223150000 +0000" stop="20241223153500 +0000" channel="BIS HD">
+    <title lang="pt">Hip Hop Machine</title>
+    <desc lang="pt">Hip Hop Machine é o encontro do Jazz com o Rap. Leo Gandelman se junta aos artistas em ascensão do Rap nacional para bater um papo com eles e fazer mais performances incríveis nessa segunda temporada!(n)</desc>
+  </programme>
+  <programme start="20241223153500 +0000" stop="20241223160700 +0000" channel="BIS HD">
+    <title lang="pt">Experimente.</title>
+    <desc lang="pt">Série de 10 episódios, que está em sua 13ª temporada, apresentando bandas que começam a despontar no cenário musical brasileiro.(n)</desc>
+  </programme>
+  <programme start="20241223160700 +0000" stop="20241223163800 +0000" channel="BIS HD">
+    <title lang="pt">Vamos Tocar</title>
+    <desc lang="pt">Leo Gandelman recebe artistas nacionais em seu estúdio para tocarem grandes sucessos. Entre uma música e outra, Leo bate um papo com o convidado.(n)</desc>
+  </programme>
+  <programme start="20241223163800 +0000" stop="20241223170700 +0000" channel="BIS HD">
+    <title lang="pt">Abitah</title>
+    <desc lang="pt">Veja a reunião de Diana Boccara e Leo Longo com artistas da música brasileira, suas reflexões sobre a Arte e os videoclipes, que nascem desses encontros. Neste episódio: Rhaissa Bittar.(n)</desc>
+  </programme>
+  <programme start="20241223170700 +0000" stop="20241223173700 +0000" channel="BIS HD">
+    <title lang="pt">Samba Pra Sempre</title>
+    <desc lang="pt">A série faz uma homenagem aos 100 anos do samba no Brasil, e aos 15 anos de carreira do cantor e compositor Dudu Nobre.(n)</desc>
+  </programme>
+  <programme start="20241223173700 +0000" stop="20241223190000 +0000" channel="BIS HD">
+    <title lang="pt">A Última Banda De Rock</title>
+    <desc lang="pt">Documentário sobre a trajetória da banda de rock gaúcha CACHORRO GRANDE criada em Porto Alegre e implodida em São Paulo no exato ano em que comemorariam 20 anos de existência.(n)</desc>
+  </programme>
+  <programme start="20241223190000 +0000" stop="20241223200000 +0000" channel="BIS HD">
+    <title lang="pt">Glastonbury</title>
+    <desc lang="pt">SZA, Janelle Monáe, Masego e mais encantam o público com suas apresentações únicas, combinando vozes poderosas e presença de palco potente, fazendo grandes shows no festival.(n)</desc>
+  </programme>
+  <programme start="20241223200000 +0000" stop="20241223210000 +0000" channel="BIS HD">
+    <title lang="pt">Glastonbury</title>
+    <desc lang="pt">Shania Twain, Cyndi Lauper, PJ Harvey e outros trazem performances memoráveis, cada uma com seu estilo, desde o country até clássicos divertidos e rock alternativo cativante.(n)</desc>
+  </programme>
+  <programme start="20241223210000 +0000" stop="20241223213000 +0000" channel="BIS HD">
+    <title lang="pt">Canto Ao Tempo</title>
+    <desc lang="pt">O primeiro episódio do Canto ao Tempo faz uma homenagem à Margareth Menezes, um das pioneiras a usar sua voz para representar a mulher, a cultura e o povo negro.(n)</desc>
+  </programme>
+  <programme start="20241223213000 +0000" stop="20241223220000 +0000" channel="BIS HD">
+    <title lang="pt">Setlist</title>
+    <desc lang="pt">DELACRUZ PART. IZA - AFRODITE (ALTAFONTE).(n)</desc>
+  </programme>
+  <programme start="20241223220000 +0000" stop="20241223230100 +0000" channel="BIS HD">
+    <title lang="pt">Versões</title>
+    <desc lang="pt">Comandado por Dedé Teicher, o programa Versões retorna ao Canal BIS na quinta temporada, onde artistas são convidados para fazerem suas versões de clássicos da música.(n)</desc>
+  </programme>
+  <programme start="20241223230100 +0000" stop="20241224000000 +0000" channel="BIS HD">
+    <title lang="pt">Experimente.</title>
+    <desc lang="pt">Série que está em sua 8ª temporada, apresenta bandas que começam a despontar no cenário musical brasileiro.(n)</desc>
+  </programme>
+  <programme start="20241222210000 +0000" stop="20241223010000 +0000" channel="LIKE">
+    <title lang="pt">Fique Por Dentro dos Filmes e Programas de TV</title>
+    <desc lang="pt">Sinopse não disponível.(n)</desc>
+  </programme>
+  <programme start="20241223010000 +0000" stop="20241223030000 +0000" channel="LIKE">
+    <title lang="pt">Todas as Novidades da Sua TV Por Assinatura</title>
+    <desc lang="pt">Sinopse não disponível.(n)</desc>
+  </programme>
+  <programme start="20241223030000 +0000" stop="20241223090000 +0000" channel="LIKE">
+    <title lang="pt">Dicas do Que Assistir? Aqui Tem!</title>
+    <desc lang="pt">Sinopse não disponível.(n)</desc>
+  </programme>
+  <programme start="20241223090000 +0000" stop="20241223150000 +0000" channel="LIKE">
+    <title lang="pt">Trailers, Entrevistas e Festivais</title>
+    <desc lang="pt">Sinopse não disponível.(n)</desc>
+  </programme>
+  <programme start="20241223150000 +0000" stop="20241223210000 +0000" channel="LIKE">
+    <title lang="pt">Programe-se com as Dicas do Like</title>
+    <desc lang="pt">Sinopse não disponível.(n)</desc>
+  </programme>
+  <programme start="20241223210000 +0000" stop="20241224010000 +0000" channel="LIKE">
+    <title lang="pt">Fique Por Dentro dos Filmes e Programas de TV</title>
+    <desc lang="pt">Sinopse não disponível.(n)</desc>
+  </programme>
+  <programme start="20241222230000 +0000" stop="20241223010000 +0000" channel="PREMIERE5 HD">
+    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!(n)</desc>
+  </programme>
+  <programme start="20241223010000 +0000" stop="20241223030000 +0000" channel="PREMIERE5 HD">
+    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!(n)</desc>
+  </programme>
+  <programme start="20241223030000 +0000" stop="20241223050000 +0000" channel="PREMIERE5 HD">
+    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!(n)</desc>
+  </programme>
+  <programme start="20241223050000 +0000" stop="20241223070000 +0000" channel="PREMIERE5 HD">
+    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!(n)</desc>
+  </programme>
+  <programme start="20241223070000 +0000" stop="20241223090000 +0000" channel="PREMIERE5 HD">
+    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!(n)</desc>
+  </programme>
+  <programme start="20241223090000 +0000" stop="20241223110000 +0000" channel="PREMIERE5 HD">
+    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!(n)</desc>
+  </programme>
+  <programme start="20241223110000 +0000" stop="20241223130000 +0000" channel="PREMIERE5 HD">
+    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!(n)</desc>
+  </programme>
+  <programme start="20241223130000 +0000" stop="20241223150000 +0000" channel="PREMIERE5 HD">
+    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!(n)</desc>
+  </programme>
+  <programme start="20241223150000 +0000" stop="20241223170000 +0000" channel="PREMIERE5 HD">
+    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!(n)</desc>
+  </programme>
+  <programme start="20241223170000 +0000" stop="20241223190000 +0000" channel="PREMIERE5 HD">
+    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!(n)</desc>
+  </programme>
+  <programme start="20241223190000 +0000" stop="20241223210000 +0000" channel="PREMIERE5 HD">
+    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!(n)</desc>
+  </programme>
+  <programme start="20241223210000 +0000" stop="20241223230000 +0000" channel="PREMIERE5 HD">
+    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!(n)</desc>
+  </programme>
+  <programme start="20241223230000 +0000" stop="20241224010000 +0000" channel="PREMIERE5 HD">
+    <title lang="pt">Com o PREMIERE dá jogo!</title>
+    <desc lang="pt">Com o PREMIERE dá jogo! Acesse o canal 250 e seja assinante!(n)</desc>
+  </programme>
+  <programme start="20241222234100 +0000" stop="20241223003200 +0000" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt">Amor Proibido</title>
+    <desc lang="pt">Lindsey age contra a pornografia de Elmer. Laurie é questionada sobre o judaísmo. O plano de Ashley falha, e o pai de Kris confronta Lensa.(n)</desc>
+  </programme>
+  <programme start="20241223003200 +0000" stop="20241223012300 +0000" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt">Amor Proibido</title>
+    <desc lang="pt">Mohammed confronta a irmã de Ashley. Eli e Laurie discutem sobre o colar, e Lindsey tenta reconciliar Elmer com a família. Kris abandona o culto.(n)</desc>
+  </programme>
+  <programme start="20241223012300 +0000" stop="20241223030600 +0000" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt">MasterChef Confeitaria</title>
+    <desc lang="pt">No MasterChef Confeitaria, 12 participantes criam sobremesas que refletem suas raízes e, na eliminação, encaram o desafio de uma torre de pavlova.(n)</desc>
+  </programme>
+  <programme start="20241223030600 +0000" stop="20241223050700 +0000" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt">MasterChef Confeitaria</title>
+    <desc lang="pt">No MasterChef Confeitaria, 12 participantes criam sobremesas que refletem suas raízes e, na eliminação, encaram o desafio de uma torre de pavlova.(n)</desc>
+  </programme>
+  <programme start="20241223050700 +0000" stop="20241223055400 +0000" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt">O Próximo Empreendedor - com Gordon Ramsay</title>
+    <desc lang="pt">Aspirantes magnatas serão desafiados todas as semanas em todos os aspectos da gestão de uma empresa.(n)</desc>
+  </programme>
+  <programme start="20241223055400 +0000" stop="20241223063800 +0000" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt">Restaurando Casas Com Dave e Jenny</title>
+    <desc lang="pt">Dave e Jenny modernizam o combalido chalé de madeira de um casal, preservando sua integridade histórica. A reforma completa inclui um bar personalizado, ducha externa e uma varanda nova.(n)</desc>
+  </programme>
+  <programme start="20241223063800 +0000" stop="20241223072700 +0000" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt">Restaurando Casas De Fazenda</title>
+    <desc lang="pt">Essa é a casa \"mais nova\" que Jon Knight já reformou: uma reprodução colonial de 50 anos. A casa precisa de muita ajuda, então Jon e Kristina trazem um design iluminado da Costa Oeste.(n)</desc>
+  </programme>
+  <programme start="20241223072700 +0000" stop="20241223081100 +0000" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt">Ame-a ou Deixe-a: Vancouver</title>
+    <desc lang="pt">Mark se arrependeu de comprar uma casa com ângulos e disposição estranhos, mas Katie adora a piscina. O desafio de Todd é encontrar uma casa num bairro nobre, enquanto Jillian enfrenta problemas com água durante a reforma.(n)</desc>
+  </programme>
+  <programme start="20241223081100 +0000" stop="20241223090000 +0000" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt">Ame-a ou Deixe-a: Vancouver</title>
+    <desc lang="pt">Com o quarto filho a caminho, Laila e Dan desafiam Jillian com orçamento e prazo apertados, além de uma reforma grande em uma casa pequena. Todd tenta achar imóveis espaçosos, mas suas casas modernas espantam Laila.(n)</desc>
+  </programme>
+  <programme start="20241223090000 +0000" stop="20241223095100 +0000" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt">Leslie E Lyndsay: Irmãs Pra Toda Obra</title>
+    <desc lang="pt">Um casal de namorados recorre a Lyndsay e Leslie para conseguir vender uma casa antiga em um bairro com novas construções. Enquanto as gêmeas renovam a casa com um estilo minimalista, Lyndsay faz planos com o namorado.(n)</desc>
+  </programme>
+  <programme start="20241223095100 +0000" stop="20241223104300 +0000" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt">Restaurando Casas Com Dave e Jenny</title>
+    <desc lang="pt">Um casal de descendência peruana comprou uma pequena casa onde pretende morar para sempre, mas ela precisa de uma reforma. Dave e Jenny iluminam a casa e incorporam o design peruano, com toques pessoais e um galinheiro.(n)</desc>
+  </programme>
+  <programme start="20241223104300 +0000" stop="20241223110900 +0000" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt">Reforma À Venda</title>
+    <desc lang="pt">Tarek e Christina assumem uma reforma no Highle Park, na Califórnia, abandonada pelo proprietário no meio de sua execução. Quando a inspeção revela que a casa não tem telhado, eles terão que buscar uma solu...(n)</desc>
+  </programme>
+  <programme start="20241223110900 +0000" stop="20241223113500 +0000" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt">Reforma À Venda</title>
+    <desc lang="pt">Tarek e Christina viajam para Huntington Beach, Califórnia, para visitar uma casa grande em um bairro elegante. Como o imóvel é antiquado e com uma planta pouco funcional, seu projeto pretende modernizálo.(n)</desc>
+  </programme>
+  <programme start="20241223113500 +0000" stop="20241223120000 +0000" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt">Reforma À Venda</title>
+    <desc lang="pt">Para aproveitar o mercado aquecido, Tarek e Christina planejam uma reforma rápida em uma casa pequena com terreno grande. No entanto, a pressa e o cronograma apertado podem criar mais problemas durante a obra.(n)</desc>
+  </programme>
+  <programme start="20241223120000 +0000" stop="20241223125300 +0000" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt">Irmãos À Obra: Lar Sempre Lar</title>
+    <desc lang="pt">Depois de ter dois filhos, um casal não conseguiu concluir as reformas necessárias em sua residência. Drew e Jonathan criam um projeto para aumentar a funcionalidade das sala de estar e de jantar e da cozinha.(n)</desc>
+  </programme>
+  <programme start="20241223125300 +0000" stop="20241223134100 +0000" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt">Irmãos À Obra: Lar Sempre Lar</title>
+    <desc lang="pt">Após a morte inesperada do marido, uma mulher herda uma casa disfuncional que ele planejava reformar com a ajuda dos dois filhos. Jonathan e Drew transformam o imóvel que guarda tantas lembranças familiares preciosas.(n)</desc>
+  </programme>
+  <programme start="20241223134100 +0000" stop="20241223143300 +0000" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt">Te Devo Essa! Reforma das Estrelas</title>
+    <desc lang="pt">Celebridades de Hollywood expressam sua profunda gratidão às pessoas importantes de suas vidas.(n)</desc>
+  </programme>
+  <programme start="20241223143300 +0000" stop="20241223152700 +0000" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt">Irmãos à Obra</title>
+    <desc lang="pt">Julie e seu marido estão ansiosos para se mudar para um imóvel próprio com os dois filhos. Apesar de sua resistência, Drew e Jonathan os convencem a reformar uma casa que atende com perfeição às necessidades da f...(n)</desc>
+  </programme>
+  <programme start="20241223152700 +0000" stop="20241223162300 +0000" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt">Irmãos à Obra - Compra e Venda</title>
+    <desc lang="pt">Pai solteiro, Joe mora no subúrbio com as duas filhas. Cansados do longo tempo de deslocamento até a escola e o trabalho, eles querem encontrar um  apartamento no centro com todas as comodidades.(n)</desc>
+  </programme>
+  <programme start="20241223162300 +0000" stop="20241223171900 +0000" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt">100 Dias Para Morar: Começando Do Zero</title>
+    <desc lang="pt">Brian e Mika um casal de noivos a tomar a sua primeira decisão conjunta importante em 90 dias ou menos.(n)</desc>
+  </programme>
+  <programme start="20241223171900 +0000" stop="20241223181500 +0000" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt">Do Velho Ao Novo</title>
+    <desc lang="pt">Um casal com um filho a caminho pede a ajuda de Chip e Jo para projetar a casa de seus sonhos.(n)</desc>
+  </programme>
+  <programme start="20241223181500 +0000" stop="20241223191100 +0000" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt">Renovação Sem Demolição</title>
+    <desc lang="pt">Jenn Todryk ajuda um casal com um bebê a caminho, terminando a reforma que eles começaram anos atrás e nunca conseguiram concluir. Depois, ela trabalha com recém-casados para deixar sua casa mais bonita e funcional.(n)</desc>
+  </programme>
+  <programme start="20241223191100 +0000" stop="20241223200700 +0000" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt">Renovação Sem Demolição</title>
+    <desc lang="pt">Uma mãe solo que adora cozinhar pede para Jenn transformar sua cozinha no paraíso dos bolos, sem queimar o orçamento. Jenn ajuda um casal a modernizar sua casa para torná-la mais funcional para sua família ativa.(n)</desc>
+  </programme>
+  <programme start="20241223200700 +0000" stop="20241223210100 +0000" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt">Negócio De Família Com Chelsea E Cole</title>
+    <desc lang="pt">Um casal sonha com uma casa fabulosa para receber todos os amigos. Chelsea e Cole criam uma disposição perfeita para festas, que inclui uma cozinha nova com o dobro do tamanho e uma sala com mais espaço para receber os amigos.(n)</desc>
+  </programme>
+  <programme start="20241223210100 +0000" stop="20241223215200 +0000" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt">Do Velho Ao Novo</title>
+    <desc lang="pt">Chip e Jo transformam um bangalô da década de 1950 em um refúgio aconchegante para uma viúva que está começando um novo capítulo de sua vida.(n)</desc>
+  </programme>
+  <programme start="20241223215200 +0000" stop="20241223224600 +0000" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt">24 Horas Pra Redecorar</title>
+    <desc lang="pt">Dois pais dedicados querem redecorar a sala pra aproveitá-la com os filhos.(n)</desc>
+  </programme>
+  <programme start="20241223224600 +0000" stop="20241223233600 +0000" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt">Te Devo Essa! Reforma das Estrelas</title>
+    <desc lang="pt">Wanda Sykes quer agradecer à sobrinha Amber por todo o carinho que ela e sua família lhe dedicaram. Para isso, Jonathan e Drew planejam uma reforma no quarto e no banheiro de uma casa antiga da família de Amber.(n)</desc>
+  </programme>
+  <programme start="20241223233600 +0000" stop="20241224002400 +0000" channel="DISCOVERY HOME&amp;HEALTH HD">
+    <title lang="pt">Gordon Ramsay: Do Inferno ao Paraíso em 24 Horas</title>
+    <desc lang="pt">Gordon Ramsay viaja para Toms River, Nova Jersey, para ajudar o Caneda's White Rooster, um restaurante cubano em dificuldades.(n)</desc>
+  </programme>
+  <programme start="20241222233000 +0000" stop="20241223000000 +0000" channel="TRAVEL BOX">
+    <title lang="pt">Cris Pelo Mundo</title>
+    <desc lang="pt">\"O tempo fecha, mas a aventura continua: Família Cris Pelo Mundo desafia a chuva em busca de praias paradisíacas!(n)</desc>
+  </programme>
+  <programme start="20241223000000 +0000" stop="20241223003000 +0000" channel="TRAVEL BOX">
+    <title lang="pt">Paes Pelo Mundo</title>
+    <desc lang="pt">De volta a um dos lugares preferidos do apresentador Thiago Paes: Portugal. Dessa vez, Paes percorre Lisboa pelos principais pontos turísticos.(n)</desc>
+  </programme>
+  <programme start="20241223003000 +0000" stop="20241223010000 +0000" channel="TRAVEL BOX">
+    <title lang="pt">Paes Pelo Mundo</title>
+    <desc lang="pt">Em mais um tour pela Rota dos Pireneus, em Goiás, o apresentador Thiago Paes visita 3 fazendas que de diferentes formas recebem visitantes com o melhor da culinária regional.(n)</desc>
+  </programme>
+  <programme start="20241223010000 +0000" stop="20241223021500 +0000" channel="TRAVEL BOX">
+    <title lang="pt">Travel.doc</title>
+    <desc lang="pt">O Trave Box Brazil foi até o Pantanal do Estado do Mato grosso a convite do Sebrae para se aventurar em uma presstrip. Foram 6 dias de muita aventura pela região pantaneira.(n)</desc>
+  </programme>
+  <programme start="20241223021500 +0000" stop="20241223023000 +0000" channel="TRAVEL BOX">
+    <title lang="pt">Mochila Cheia</title>
+    <desc lang="pt">A Josi Ledis e o César Wataya compartilham com você cada passo de suas viagens. Veja de perto destinos que vão das  geleiras da Islândia até as paisagens paradisíacas do litoral brasileiro.(n)</desc>
+  </programme>
+  <programme start="20241223023000 +0000" stop="20241223024500 +0000" channel="TRAVEL BOX">
+    <title lang="pt">Mochila Cheia</title>
+    <desc lang="pt">A Josi Ledis e o César Wataya compartilham com você cada passo de suas viagens. Veja de perto destinos que vão das  geleiras da Islândia até as paisagens paradisíacas do litoral brasileiro.(n)</desc>
+  </programme>
+  <programme start="20241223024500 +0000" stop="20241223030000 +0000" channel="TRAVEL BOX">
+    <title lang="pt">Mochila Cheia</title>
+    <desc lang="pt">A Josi Ledis e o César Wataya compartilham com você cada passo de suas viagens. Veja de perto destinos que vão das  geleiras da Islândia até as paisagens paradisíacas do litoral brasileiro.(n)</desc>
+  </programme>
+  <programme start="20241223030000 +0000" stop="20241223033000 +0000" channel="TRAVEL BOX">
+    <title lang="pt">Chefs na Rua</title>
+    <desc lang="pt">Bangkok 1: Chefs na Rua começa o passeio por Bangkok com o seu mais tradicional meio de transporte, o Tuk Tuk, para conhecer um dos maiores bairros chineses do mundo e seus pratos típicos.(n)</desc>
+  </programme>
+  <programme start="20241223033000 +0000" stop="20241223040000 +0000" channel="TRAVEL BOX">
+    <title lang="pt">Chefs na Rua</title>
+    <desc lang="pt">Bangkok 2: Ainda em Bangkok, Chefs na Rua conhece a produção de um ingrediente importante da cultura tailandesa, o açúcar de côco.(n)</desc>
+  </programme>
+  <programme start="20241223040000 +0000" stop="20241223043000 +0000" channel="TRAVEL BOX">
+    <title lang="pt">Comida de Viagem</title>
+    <desc lang="pt">Ainda na Serra Gaúcha Raphuca chega em Gramado, cidade mágica , ainda mais em época de festas. Ele caminha pelas aquelas ruas lindas, come o melhor strudel de todos e um hambúrguer premiado!(n)</desc>
+  </programme>
+  <programme start="20241223043000 +0000" stop="20241223050000 +0000" channel="TRAVEL BOX">
+    <title lang="pt">Comida de Viagem</title>
+    <desc lang="pt">Raphuca chega a São Paulo onde a gastronomia é o grande barato da cidade. A terra da garoa tem em sua cultura a imigração e começamos a desvendar essa culinária maravilhosa.(n)</desc>
+  </programme>
+  <programme start="20241223050000 +0000" stop="20241223053000 +0000" channel="TRAVEL BOX">
+    <title lang="pt">Comida de Viagem</title>
+    <desc lang="pt">Nessa temporada, Raphuca desbrava o Brasil, indo do sul ao nordeste brasileiro. Ele dá de cara com um povo receptivo que além da comida tem milhões de histórias pra contar.(n)</desc>
+  </programme>
+  <programme start="20241223053000 +0000" stop="20241223060000 +0000" channel="TRAVEL BOX">
+    <title lang="pt">Comida de Viagem</title>
+    <desc lang="pt">Nessa temporada, Raphuca desbrava o Brasil, indo do sul ao nordeste brasileiro. Ele dá de cara com um povo receptivo que além da comida tem milhões de histórias pra contar.(n)</desc>
+  </programme>
+  <programme start="20241223060000 +0000" stop="20241223063000 +0000" channel="TRAVEL BOX">
+    <title lang="pt">Estradas do Mundo</title>
+    <desc lang="pt">O primeiro ponto de parada da viagem por Santa Catarina e Rio Grande do Sul é a cidade de Urubici, na serra catarinense.(n)</desc>
+  </programme>
+  <programme start="20241223063000 +0000" stop="20241223070000 +0000" channel="TRAVEL BOX">
+    <title lang="pt">Guia Do Capitão - Destinos Guarujá</title>
+    <desc lang="pt">Nesses 8 episódios você conhecerá o Lago do Manso que fica localizado no Mato Grosso, bem pertinho de Cuiabá, que conta com diversas opções de entretenimento e uma beleza incomparável.(n)</desc>
+  </programme>
+  <programme start="20241223070000 +0000" stop="20241223071500 +0000" channel="TRAVEL BOX">
+    <title lang="pt">Tá Estressado? Vai Viajar!</title>
+    <desc lang="pt">MELBORNE - AUSTRÁLIA: Neste episódio Rodrigo nos apresenta uma das regiões mais lindas da Austrália, e ainda te mostra como é a virada do ano nessa incrível cidade, com uma linda queima de fogos.(n)</desc>
+  </programme>
+  <programme start="20241223071500 +0000" stop="20241223073000 +0000" channel="TRAVEL BOX">
+    <title lang="pt">Tá Estressado? Vai Viajar!</title>
+    <desc lang="pt">Rodrigo Rossatti apresenta e indica os melhores roteiros de viagens e passeios para pessoas que buscam no turismo uma solução para aliviar o estresse causado pela rotina.(n)</desc>
+  </programme>
+  <programme start="20241223073000 +0000" stop="20241223073500 +0000" channel="TRAVEL BOX">
+    <title lang="pt">Dicas Do Travel</title>
+    <desc lang="pt">O 3em3 comeu muito bem em Gramado e mostra todos os pratos imperdíveis ao visitar a cidade!(n)</desc>
+  </programme>
+  <programme start="20241223073500 +0000" stop="20241223080500 +0000" channel="TRAVEL BOX">
+    <title lang="pt">Na Garupa Com Hugo Dela Rosa</title>
+    <desc lang="pt">Agora é o deserto pra valer! Hugo e seus amigos pilotam às margens do Oceano Pacífico, e depois de deixar Copiapó, entram com suas motos na praia e conhecem pescadores cheios de carisma.(n)</desc>
+  </programme>
+  <programme start="20241223080500 +0000" stop="20241223083000 +0000" channel="TRAVEL BOX">
+    <title lang="pt">Condomínios Pelo Mundo</title>
+    <desc lang="pt">Neste primeiro episódio de Condomínios Pelo Mundo em Balneário Camboriú, Márcio vai te mostrar como é a vida num dos condomínios mais luxuosos de Santa Catarina e como a sustentabilidade está presente no dia...(n)</desc>
+  </programme>
+  <programme start="20241223083000 +0000" stop="20241223090000 +0000" channel="TRAVEL BOX">
+    <title lang="pt">Permita-ser</title>
+    <desc lang="pt">Um passeio pelo extremo sul do Rio Grande do Sul, na estação mais fria do ano. Foi no inverno que o Permita-se percorreu algumas das cidades mais geladas de temperatura e mais quentes de história e aventuras.(n)</desc>
+  </programme>
+  <programme start="20241223090000 +0000" stop="20241223093000 +0000" channel="TRAVEL BOX">
+    <title lang="pt">Permita-ser</title>
+    <desc lang="pt">Um passeio pelo extremo sul do Rio Grande do Sul, na estação mais fria do ano. Foi no inverno que o Permita-se percorreu algumas das cidades mais geladas de temperatura e mais quentes de história e aventuras.(n)</desc>
+  </programme>
+  <programme start="20241223093000 +0000" stop="20241223100000 +0000" channel="TRAVEL BOX">
+    <title lang="pt">Destino Portugal</title>
+    <desc lang="pt">Programa de abertura da quarta temporada de regresso a Ilha da Madeira para explorar novos cantos de um dos lugares mais paradisíacos de Portugal, além da maior festa da ilha, a Festa das Flores.(n)</desc>
+  </programme>
+  <programme start="20241223100000 +0000" stop="20241223103000 +0000" channel="TRAVEL BOX">
+    <title lang="pt">Giro Brasil</title>
+    <desc lang="pt">O Búfalo é um animal de extrema importância na Ilha do Marajó, e vou te levar praconhecer a Fazenda Mironga, que faz um trabalho importantíssimo para a comunidade dailha.(n)</desc>
+  </programme>
+  <programme start="20241223103000 +0000" stop="20241223110000 +0000" channel="TRAVEL BOX">
+    <title lang="pt">Giro Brasil</title>
+    <desc lang="pt">Hoje vou descobrir mais sobre o 'Turu', uma iguaria famosa no Marajó. Vou explorarcomo esse alimento essencial é caçado nos mangues, mergulhando na cultura local.(n)</desc>
+  </programme>
+  <programme start="20241223110000 +0000" stop="20241223113000 +0000" channel="TRAVEL BOX">
+    <title lang="pt">Cris Pelo Mundo</title>
+    <desc lang="pt">Neste episódio, Cris, Igor, Emmanuel e o pequeno Francisco seguem os passos de Darwin até São Domingos, onde exploram um jardim concebido com base nos relatos do diário do naturalista.(n)</desc>
+  </programme>
+  <programme start="20241223113000 +0000" stop="20241223120000 +0000" channel="TRAVEL BOX">
+    <title lang="pt">Cris Pelo Mundo</title>
+    <desc lang="pt">\"O tempo fecha, mas a aventura continua: Família Cris Pelo Mundo desafia a chuva em busca de praias paradisíacas!(n)</desc>
+  </programme>
+  <programme start="20241223120000 +0000" stop="20241223123000 +0000" channel="TRAVEL BOX">
+    <title lang="pt">Paes Pelo Mundo</title>
+    <desc lang="pt">De volta a um dos lugares preferidos do apresentador Thiago Paes: Portugal. Dessa vez, Paes percorre Lisboa pelos principais pontos turísticos.(n)</desc>
+  </programme>
+  <programme start="20241223123000 +0000" stop="20241223130000 +0000" channel="TRAVEL BOX">
+    <title lang="pt">Paes Pelo Mundo</title>
+    <desc lang="pt">Em mais um tour pela Rota dos Pireneus, em Goiás, o apresentador Thiago Paes visita 3 fazendas que de diferentes formas recebem visitantes com o melhor da culinária regional.(n)</desc>
+  </programme>
+  <programme start="20241223130000 +0000" stop="20241223141500 +0000" channel="TRAVEL BOX">
+    <title lang="pt">Travel.doc</title>
+    <desc lang="pt">O Trave Box Brazil foi até o Pantanal do Estado do Mato grosso a convite do Sebrae para se aventurar em uma presstrip. Foram 6 dias de muita aventura pela região pantaneira.(n)</desc>
+  </programme>
+  <programme start="20241223141500 +0000" stop="20241223143000 +0000" channel="TRAVEL BOX">
+    <title lang="pt">Mochila Cheia</title>
+    <desc lang="pt">A Josi Ledis e o César Wataya compartilham com você cada passo de suas viagens. Veja de perto destinos que vão das  geleiras da Islândia até as paisagens paradisíacas do litoral brasileiro.(n)</desc>
+  </programme>
+  <programme start="20241223143000 +0000" stop="20241223144500 +0000" channel="TRAVEL BOX">
+    <title lang="pt">Mochila Cheia</title>
+    <desc lang="pt">A Josi Ledis e o César Wataya compartilham com você cada passo de suas viagens. Veja de perto destinos que vão das  geleiras da Islândia até as paisagens paradisíacas do litoral brasileiro.(n)</desc>
+  </programme>
+  <programme start="20241223144500 +0000" stop="20241223150000 +0000" channel="TRAVEL BOX">
+    <title lang="pt">Mochila Cheia</title>
+    <desc lang="pt">A Josi Ledis e o César Wataya compartilham com você cada passo de suas viagens. Veja de perto destinos que vão das  geleiras da Islândia até as paisagens paradisíacas do litoral brasileiro.(n)</desc>
+  </programme>
+  <programme start="20241223150000 +0000" stop="20241223151500 +0000" channel="TRAVEL BOX">
+    <title lang="pt">Mel Na Estrada</title>
+    <desc lang="pt">No episódio de hoje, Mel se hospeda em um domo no coração da Serra daMantiqueira.(n)</desc>
+  </programme>
+  <programme start="20241223151500 +0000" stop="20241223152500 +0000" channel="TRAVEL BOX">
+    <title lang="pt">Pra Viagem</title>
+    <desc lang="pt">Mais vinho, afinal estamos em Mendoza! Hoje o passeio foi com o bus Vitivinicola, ele percorre várias bodegas, em praticamente todas as regiões produtoras de vinho de Mendoza.(n)</desc>
+  </programme>
+  <programme start="20241223152500 +0000" stop="20241223155500 +0000" channel="TRAVEL BOX">
+    <title lang="pt">Louco Por Viagens</title>
+    <desc lang="pt">Hoje Rogério Enachev nos conta como surgiram e como foram construídas as Pirâmides de Gizé. Veremos a Pirâmide de Saqqara, Dashur e por fim a Pirâmide de Quéops.(n)</desc>
+  </programme>
+  <programme start="20241223155500 +0000" stop="20241223162500 +0000" channel="TRAVEL BOX">
+    <title lang="pt">Destino Portugal</title>
+    <desc lang="pt">No sexto programa da terceira temporada iremos visitar as últimas três capitais de distrito que faltavam para completar todo o país, Beja, Portalegre, Tchê e Castelo Branco.(n)</desc>
+  </programme>
+  <programme start="20241223162500 +0000" stop="20241223165500 +0000" channel="TRAVEL BOX">
+    <title lang="pt">Segredos Do Coração da América Do Sul</title>
+    <desc lang="pt">NOBRES (DISTRITO DE BOM JARDIM) - Lagoas de águas cristalinas, cachoeiras, cavernas, grutas, uma enorme diversidade de peixes, aves e animais, são algumas das belezas naturais encontradas no município de Nobres.(n)</desc>
+  </programme>
+  <programme start="20241223165500 +0000" stop="20241223174000 +0000" channel="TRAVEL BOX">
+    <title lang="pt">Geohunters</title>
+    <desc lang="pt">SERRA NEGRA - Nossos caçadores de aventura começam o episódio e a segunda temporada no sítio Siloto, uma propriedade rural na cidade de Serra Negra onde se produz aguardente e vinho.(n)</desc>
+  </programme>
+  <programme start="20241223174000 +0000" stop="20241223175500 +0000" channel="TRAVEL BOX">
+    <title lang="pt">Programa Santuários</title>
+    <desc lang="pt">No programa de estreia, visitei o maior Santuário Mariano do mundo, Santuário Nacional de Aparecida e para começar bem, fui aonde tudo começou.(n)</desc>
+  </programme>
+  <programme start="20241223175500 +0000" stop="20241223180000 +0000" channel="TRAVEL BOX">
+    <title lang="pt">Pra Viagem - Shot</title>
+    <desc lang="pt">Fomos conhecer o Parque Nacional Tierra del Fuego. Um passeio clássico para quem está em Ushuaia. Contratamos uma agência pois ir por conta era perigoso, por causa da neve.(n)</desc>
+  </programme>
+  <programme start="20241223180000 +0000" stop="20241223220000 +0000" channel="TRAVEL BOX">
+    <title lang="pt">Infomercial</title>
+    <desc lang="pt">Programa de vendas.(n)</desc>
+  </programme>
+  <programme start="20241223220000 +0000" stop="20241223221500 +0000" channel="TRAVEL BOX">
+    <title lang="pt">Mel Na Estrada</title>
+    <desc lang="pt">Descubra destinos e experiências transformadoras viajando de carro com Mel Fronckowiak pelos destinos paradisíacos do nosso Brasil.(n)</desc>
+  </programme>
+  <programme start="20241223221500 +0000" stop="20241223223000 +0000" channel="TRAVEL BOX">
+    <title lang="pt">Mel Na Estrada</title>
+    <desc lang="pt">Descubra destinos e experiências transformadoras viajando de carro com Mel Fronckowiak pelos destinos paradisíacos do nosso Brasil.(n)</desc>
+  </programme>
+  <programme start="20241223223000 +0000" stop="20241223224500 +0000" channel="TRAVEL BOX">
+    <title lang="pt">Mel Na Estrada</title>
+    <desc lang="pt">No episódio de hoje de Mel na Estrada, pegaremos a estrada até o Campo BaseEcolodge, um glamping incrível e super bem localizado, na porta de entrada daChapada dos Veadeiros.(n)</desc>
+  </programme>
+  <programme start="20241223224500 +0000" stop="20241223230000 +0000" channel="TRAVEL BOX">
+    <title lang="pt">Mel Na Estrada</title>
+    <desc lang="pt">No vídeo de hoje, nós pegamos a estrada até o Ka Bru Forest, um glampingdiferente de tudo que já vimos! Por lá, em Itacaré, ainda teremos aula de Yoga,experiência gastronômica.(n)</desc>
+  </programme>
+  <programme start="20241223230000 +0000" stop="20241223231500 +0000" channel="TRAVEL BOX">
+    <title lang="pt">Mel Na Estrada</title>
+    <desc lang="pt">Seguimos viagem até Novo Airão, na floresta Amazônica, onde ficaremoshospedados à beira do Rio Negro. Por lá, viveremos muitas experiências incríveis:desde focagem noturna até trilha no meio da mata.(n)</desc>
+  </programme>
+  <programme start="20241223231500 +0000" stop="20241224003000 +0000" channel="TRAVEL BOX">
+    <title lang="pt">Travel.doc</title>
+    <desc lang="pt">O Trave Box Brazil foi até o Pantanal do Estado do Mato grosso a convite do Sebrae para se aventurar em uma presstrip. Foram 6 dias de muita aventura pela região pantaneira.(n)</desc>
+  </programme>
+  <programme start="20241222233000 +0000" stop="20241223003000 +0000" channel="TV BRASIL">
+    <title lang="pt">No Mundo da Bola</title>
+    <desc lang="pt">Versão televisiva do programa de rádio homônimo, que teve início na década de 1930, na Rádio Nacional do Rio de Janeiro, e fez história no jornalismo esportivo radiofônico.(n)</desc>
+  </programme>
+  <programme start="20241223003000 +0000" stop="20241223023000 +0000" channel="TV BRASIL">
+    <title lang="pt">Sessão de Cinema: Magia ao Luar</title>
+    <desc lang="pt">Um talentoso mágico é contratado para desmascarar uma simpática jovem que afirma ser médium. Inicialmente cético, ele aos poucos começa a duvidar de suas certezas e se vê cada vez mais encantado pela jovem.(n)</desc>
+  </programme>
+  <programme start="20241223023000 +0000" stop="20241223043000 +0000" channel="TV BRASIL">
+    <title lang="pt">Sessão de Cinema: Bar Esperança - O Último que Fecha</title>
+    <desc lang="pt">Com foco em um casamento conturbado, o filme é um retrato das frustrações, amarguras e alegrias de artistas, intelectuais, bêbados e anônimos, ao redor das mesas de um bar da Zona Sul do Rio de Janeiro.(n)</desc>
+  </programme>
+  <programme start="20241223043000 +0000" stop="20241223053000 +0000" channel="TV BRASIL">
+    <title lang="pt">Sessão de Cinema: Lei Paulo Gustavo - Selma Depois da Chuva</title>
+    <desc lang="pt">Documentário investiga o impacto ambiental e social da indústria papeleira na Serra Catarinense, às margens do Rio Canoas. A produção de papel, vital para a economia, traz riscos ao meio ambiente e à saúde humana.(n)</desc>
+  </programme>
+  <programme start="20241223053000 +0000" stop="20241223063000 +0000" channel="TV BRASIL">
+    <title lang="pt">Paisagens Secretas</title>
+    <desc lang="pt">A paisagem desértica de Utah é lar de um dos cenários naturais mais espetaculares e implacáveis do mundo: o Parque Nacional de Zion. É uma terra moldada por forças geológicas inimagináveis por milhões d...(n)</desc>
+  </programme>
+  <programme start="20241223063000 +0000" stop="20241223073000 +0000" channel="TV BRASIL">
+    <title lang="pt">Imensidão Azul</title>
+    <desc lang="pt">A barreira de corais de Belize é o segundo maior sistema de recifes de coral do mundo.(n)</desc>
+  </programme>
+  <programme start="20241223073000 +0000" stop="20241223083000 +0000" channel="TV BRASIL">
+    <title lang="pt">Ícones da Vida Selvagem</title>
+    <desc lang="pt">Os suricatos podem ser pequenos e vulneráveis, mas são personagens tenazes. Para uma família em crescimento, o trabalho em equipe não serve apenas para mantê-los vivos; também os ajudando a prosperar.(n)</desc>
+  </programme>
+  <programme start="20241223083000 +0000" stop="20241223090000 +0000" channel="TV BRASIL">
+    <title lang="pt">Brasil Visto de Cima</title>
+    <desc lang="pt">Através de imagens feitas em helicópteros e drones, surgem ângulos, visões e reflexões sobre os encantos, as belezas, as curiosidades e as contradições de um país imenso e cheio de surpresas.(n)</desc>
+  </programme>
+  <programme start="20241223090000 +0000" stop="20241223100000 +0000" channel="TV BRASIL">
+    <title lang="pt">Agro Amazonas</title>
+    <desc lang="pt">O programa mostra as ações e projetos voltados ao fortalecimento do setor primário, com destaque para regularização fundiária e ambiental, crédito rural, assistência técnica e capacitação de p...(n)</desc>
+  </programme>
+  <programme start="20241223100000 +0000" stop="20241223100900 +0000" channel="TV BRASIL">
+    <title lang="pt">Tuiga</title>
+    <desc lang="pt">Imagine uma girafa num balão, fazendo entregas pelo mundo acompanhada de uma menina-piloto, uma flor desconfiada e uma pedra entusiasmada.(n)</desc>
+  </programme>
+  <programme start="20241223100900 +0000" stop="20241223102100 +0000" channel="TV BRASIL">
+    <title lang="pt">Mouk</title>
+    <desc lang="pt">Animação infantil em que um urso e um gato viajam pelo mundo, aprendendo sobre os lugares e fazendo amigos.(n)</desc>
+  </programme>
+  <programme start="20241223102100 +0000" stop="20241223102900 +0000" channel="TV BRASIL">
+    <title lang="pt">Casa da Árvore</title>
+    <desc lang="pt">Yael e Oscar estão fazendo \"baús de tesouro\" para guardar os pequenos objetos preciosos que encontraram durante suas caminhadas - penas, flores, pedras e assim por diante. Mas Estevão está entediado!(n)</desc>
+  </programme>
+  <programme start="20241223102900 +0000" stop="20241223104200 +0000" channel="TV BRASIL">
+    <title lang="pt">Galinha Pintadinha Mini</title>
+    <desc lang="pt">Em um dia de chuva, os membros da família vão à biblioteca. Eles se interessam por livros diferentes. Porém, todos acabam lendo juntos.(n)</desc>
+  </programme>
+  <programme start="20241223104200 +0000" stop="20241223105500 +0000" channel="TV BRASIL">
+    <title lang="pt">Sol em Dó Ré Mi</title>
+    <desc lang="pt">Sol, de 6 anos, encontra um piano mágico que a leva ao mundo de Do Ré Mi. Lá, enfrenta desafios do dia a dia com a ajuda de amigos instrumentos, sempre terminando com um show musical!(n)</desc>
+  </programme>
+  <programme start="20241223105500 +0000" stop="20241223111000 +0000" channel="TV BRASIL">
+    <title lang="pt">Pequenos Mestres</title>
+    <desc lang="pt">Em Poção, PE, a renda renascença é tradição familiar. Três gerações de mulheres fazem a renda renascença, com Rafael Leite criando releituras de telas famosas.(n)</desc>
+  </programme>
+  <programme start="20241223111000 +0000" stop="20241223111800 +0000" channel="TV BRASIL">
+    <title lang="pt">As Microaventuras de Tito e Muda</title>
+    <desc lang="pt">Em um dia de festa, Bélvis, o músico oficial da vila, descobre que foi substituído pelo espremedor de frutas de Pudim. Bélvis se incomoda com o novato e decide estragar a festa.(n)</desc>
+  </programme>
+  <programme start="20241223111800 +0000" stop="20241223112600 +0000" channel="TV BRASIL">
+    <title lang="pt">MYTIKAH - O Livro dos Heróis</title>
+    <desc lang="pt">Manga e Leco conhecem Chiquinha Gonzaga, se encontram ainda crianças tendo aulas de piano, depois mais velhos. Chiquinha fará uma apresentação e está desesperada porque um flautista faltou, Manga e Leco ajudam.(n)</desc>
+  </programme>
+  <programme start="20241223112600 +0000" stop="20241223113900 +0000" channel="TV BRASIL">
+    <title lang="pt">A Ratinha e o Urso</title>
+    <desc lang="pt">Ernest fica honrado quando o prefeito lhe pede para cantar a \"canção dos ursos\". Mas quando sua voz começar a ser forçada, quem poderá substituí-lo se não for um grande urso de voz áspera?(n)</desc>
+  </programme>
+  <programme start="20241223113900 +0000" stop="20241223115100 +0000" channel="TV BRASIL">
+    <title lang="pt">Pedrinho e a Chuteira da Sorte</title>
+    <desc lang="pt">Pedrinho, apaixonado por futebol e com as Chuteiras da Sorte, enfrenta desafios com amigos enquanto busca realizar seu sonho de ser jogador.(n)</desc>
+  </programme>
+  <programme start="20241223115100 +0000" stop="20241223120300 +0000" channel="TV BRASIL">
+    <title lang="pt">Missão 347</title>
+    <desc lang="pt">Uma família alienígena explora a rica biodiversidade terrestre com o objetivo de catalogar e levar novos alimentos a seu planeta de origem, que sofre por escassez de recursos.(n)</desc>
+  </programme>
+  <programme start="20241223120300 +0000" stop="20241223121600 +0000" channel="TV BRASIL">
+    <title lang="pt">Gemini 8</title>
+    <desc lang="pt">Marco, um garoto da Terra, acha uma pipa que o transporta para o distante planeta de Gemini 8. Agora, seu novo amigo Polo terá que dar um jeito de levá-lo de volta.(n)</desc>
+  </programme>
+  <programme start="20241223121600 +0000" stop="20241223122800 +0000" channel="TV BRASIL">
+    <title lang="pt">Tuca, o Mestre Cuca</title>
+    <desc lang="pt">Série em animação que traz uma visão positiva e divertida das relações humanas. Através do amor de Tuca pela culinária.(n)</desc>
+  </programme>
+  <programme start="20241223122800 +0000" stop="20241223124200 +0000" channel="TV BRASIL">
+    <title lang="pt">Passado da Hora</title>
+    <desc lang="pt">Passado da Hora é uma série de comédia animada que mistura técnicas diversas para abordar temas da história do Brasil com humor, artes, mapas e culinária, em estilo de almanaque.(n)</desc>
+  </programme>
+  <programme start="20241223124200 +0000" stop="20241223125500 +0000" channel="TV BRASIL">
+    <title lang="pt">Eu Sou um Gênio</title>
+    <desc lang="pt">O prefeito de Oasiswood, famoso por suas mudanças de humor malucas, anuncia que está vindo visitar os habitantes do Oasis, sem dizer o porquê.(n)</desc>
+  </programme>
+  <programme start="20241223125500 +0000" stop="20241223130800 +0000" channel="TV BRASIL">
+    <title lang="pt">Eu Sou um Gênio</title>
+    <desc lang="pt">Rita está procurando um gerente que seja generoso, compreensivo, leal e excepcionalmente amigável, para dirigir sua fundação de proteção às minhocas.(n)</desc>
+  </programme>
+  <programme start="20241223130800 +0000" stop="20241223132200 +0000" channel="TV BRASIL">
+    <title lang="pt">Tainá e os Guardiões da Amazônia</title>
+    <desc lang="pt">Era uma vez uma jacarezinha que tinha vergonha de sua cauda poderosa, de sua boca enorme e de seus dentes amedrontadores. Nervosa, a mamãe jacaré chamou Tainá e sua turma.(n)</desc>
+  </programme>
+  <programme start="20241223132200 +0000" stop="20241223135000 +0000" channel="TV BRASIL">
+    <title lang="pt">Meu Amigãozão</title>
+    <desc lang="pt">Na primeira história, Nina está chateada porque sua amiga vai se mudar, e Matt está triste por não poder fazer nada para ajudar. Na segunda história, Lili se frustra por não conseguir fazer uma pirueta no balé.(n)</desc>
+  </programme>
+  <programme start="20241223135000 +0000" stop="20241223140200 +0000" channel="TV BRASIL">
+    <title lang="pt">O Show da Luna!</title>
+    <desc lang="pt">Luna é uma garotinha curiosa e alegre, que está sempre às voltas com perguntas sobre o mundo. Para ela, o planeta Terra é um laboratório gigante e todos os acontecimentos são fenômenos a serem investigados.(n)</desc>
+  </programme>
+  <programme start="20241223140200 +0000" stop="20241223141500 +0000" channel="TV BRASIL">
+    <title lang="pt">Historietas Assombradas</title>
+    <desc lang="pt">O diabo precisa de um ar-condicionado. Para isso, ele precisa de almas. Marilu, Pepe, Vó, Bardo, Guto e Gastón fazem trocas com o diabo para também conseguirem o que querem.(n)</desc>
+  </programme>
+  <programme start="20241223141500 +0000" stop="20241223142800 +0000" channel="TV BRASIL">
+    <title lang="pt">Boris e Rufus</title>
+    <desc lang="pt">Descubra para quem é o presente que Enzo acaba de trazer para casa. Manipulados por Leopoldo, Boris e Rufus entram em uma disputa que trará sérias consequências para a vizinhança.(n)</desc>
+  </programme>
+  <programme start="20241223142800 +0000" stop="20241223150000 +0000" channel="TV BRASIL">
+    <title lang="pt">Manual de Sobrevivência da Literatura Brasileira</title>
+    <desc lang="pt">Gabriela, Rodrigo e Joaquim são transportados para a Cidade Passagem das Pedras, onde enfrentam desafios e se deparam com personagens misteriosos.(n)</desc>
+  </programme>
+  <programme start="20241223150000 +0000" stop="20241223153000 +0000" channel="TV BRASIL">
+    <title lang="pt">O Cerrado e Outros Bichos</title>
+    <desc lang="pt">Ísis, João Pedro e Niah encontram uma gosma cinzenta que pode levar ao Curupira. Pé de Garrafa encontra Troá, e todos seguem a pista, enquanto Chapada parece congelada.(n)</desc>
+  </programme>
+  <programme start="20241223153000 +0000" stop="20241223154500 +0000" channel="TV BRASIL">
+    <title lang="pt">Stadium</title>
+    <desc lang="pt">Notícias dos esportes olímpicos, preparação de atletas e surgimento de talentos da nova geração.(n)</desc>
+  </programme>
+  <programme start="20241223154500 +0000" stop="20241223163000 +0000" channel="TV BRASIL">
+    <title lang="pt">Repórter Brasil Tarde</title>
+    <desc lang="pt">Telejornal apresentado do Rio de Janeiro com o apoio de emissoras públicas de todo o país. Noticiário isento que mostra o que foi notícia no Brasil e no mundo. O destaque são reportagens com foco no cidadão.(n)</desc>
+  </programme>
+  <programme start="20241223163000 +0000" stop="20241223170000 +0000" channel="TV BRASIL">
+    <title lang="pt">Visite Paraná</title>
+    <desc lang="pt">O programa apresenta e explora localidades paranaenses de belas paisagens, com muito turismo, dicas de passeios, gastronomia e muitas curiosidades.(n)</desc>
+  </programme>
+  <programme start="20241223170000 +0000" stop="20241223173000 +0000" channel="TV BRASIL">
+    <title lang="pt">Brasil Visto de Cima</title>
+    <desc lang="pt">A cerca de 800 metros acima do nível do mar, cidades vibrantes e campos ocupados pelo agronegócio compõem uma paisagem cheia de surpresas e encantos, onde não faltam atrações históricas e até pré-hist...(n)</desc>
+  </programme>
+  <programme start="20241223173000 +0000" stop="20241223180000 +0000" channel="TV BRASIL">
+    <title lang="pt">Rastro dos Bichos</title>
+    <desc lang="pt">Série documental que aborda animais ameaçados do ponto de vista daqueles que convivem com eles no mesmo habitat e imaginário.(n)</desc>
+  </programme>
+  <programme start="20241223180000 +0000" stop="20241223190000 +0000" channel="TV BRASIL">
+    <title lang="pt">Guardiões da Vida Selvagem</title>
+    <desc lang="pt">Madonna é a primeira babuíno kinda a ser estudada desde o nascimento até a idade adulta. Siga-a enquanto ela seleciona um companheiro.(n)</desc>
+  </programme>
+  <programme start="20241223190000 +0000" stop="20241223210000 +0000" channel="TV BRASIL">
+    <title lang="pt">Sem Censura</title>
+    <desc lang="pt">Em novo formato, entrevistados e debatedores trazem visões distintas sobre cada assunto. Os temas continuam múltiplos, e outra coisa não muda: todos são convidados a participar, inclusive os telespectadores.(n)</desc>
+  </programme>
+  <programme start="20241223210000 +0000" stop="20241223213000 +0000" channel="TV BRASIL">
+    <title lang="pt">Brasil Visto de Cima</title>
+    <desc lang="pt">Desde os anos 1980 a região que mais cresce da cidade. Em meio a lagoas, praias e parques, surgem joias da arquitetura como a Cidade das Artes e o Parque Olímpico, construído para os jogos de 2016.(n)</desc>
+  </programme>
+  <programme start="20241223213000 +0000" stop="20241223220000 +0000" channel="TV BRASIL">
+    <title lang="pt">Stadium</title>
+    <desc lang="pt">Notícias dos esportes olímpicos, preparação de atletas e surgimento de talentos da nova geração.(n)</desc>
+  </programme>
+  <programme start="20241223220000 +0000" stop="20241223230000 +0000" channel="TV BRASIL">
+    <title lang="pt">Repórter Brasil</title>
+    <desc lang="pt">Telejornal apresentado do Rio de Janeiro com o apoio de emissoras públicas de todo o país. Noticiário isento que mostra o que foi notícia no Brasil e no mundo. O destaque são reportagens com foco no cidadão.(n)</desc>
+  </programme>
+  <programme start="20241223230000 +0000" stop="20241224000000 +0000" channel="TV BRASIL">
+    <title lang="pt">Sangue Oculto</title>
+    <desc lang="pt">Gêmeas que nunca se viram descobrem que foram separadas no nascimento. Um crime esteve na origem do desaparecimento de uma delas. Um amor pode impedi-las de ser uma família. Um segredo vai juntá-las novamente.(n)</desc>
+  </programme>
+</tv>
